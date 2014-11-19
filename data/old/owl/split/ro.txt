@@ -1,0 +1,224 @@
+###  http://www.musee.com/ontologies/musee.owl#RO_158
+
+:RO_158 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "Décembre 2013" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_2
+
+:RO_2 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "29 Juin 2007" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_72
+
+:RO_72 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "Début 2014" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_85
+
+:RO_85 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "Mai 2014" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_59
+
+:RO_59 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "Pas encore ouvert" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_4
+
+:RO_4 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "Juin 2013" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_129
+
+:RO_129 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "En cours" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_165
+
+:RO_165 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "Fermeture définitive" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_58
+
+:RO_58 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "7 juin 2013" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_154
+
+:RO_154 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "Février 2014" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_63
+
+:RO_63 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "Transfert Roubaix" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_160
+
+:RO_160 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "2013" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_167
+
+:RO_167 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "2014" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_111
+
+:RO_111 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "2015" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_66
+
+:RO_66 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "2013 à Marseille" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_33
+
+:RO_33 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "Pas de musée" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_110
+
+:RO_110 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "2016" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_169
+
+:RO_169 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "Non prévue" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_156
+
+:RO_156 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "Ouverture partielle" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_15
+
+:RO_15 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "Projet CIAP" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_13
+
+:RO_13 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "Réflexion pour CIAP" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_133
+
+:RO_133 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "Printemps 2014" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_172
+
+:RO_172 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "Inconnue" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_108
+
+:RO_108 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "Transfert en cours" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_142
+
+:RO_142 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "Octobre 2013" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_29
+
+:RO_29 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "Fusion des musées" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_1
+
+:RO_1 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "29 juin 2013" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#RO_83
+
+:RO_83 rdf:type owl:NamedIndividual ;
+
+    :aPériodeRéouverture "Mi 2013" .
+
+
+

@@ -1,0 +1,19 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX m: <http://www.musee.com/ontologies/musee.owl#>
+SELECT ?n
+	WHERE	{
+			?m m:aNomMusée ?n .
+			?m m:estMuséeDuThème ?t .
+			?t m:aNomThème "Papier"^^xsd:string .
+		}
+
+SELECT ?n
+	WHERE	{
+			?m m:aNomMusée ?n .
+			?a m:estAdresseDuMusée ?m .
+			?v m:estVilleDeLAdresse ?a .
+			?v m:aNomVille "LYON"^^xsd:string .
+		}

@@ -1,0 +1,3360 @@
+###  http://www.musee.com/ontologies/musee.owl#FA_169
+
+:FA_169 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er novembre au 31 mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_250
+
+:FA_250 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Août, semaine entre Noël et Nouvel An" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_224
+
+:FA_224 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 1er novembre, 11 novembre, et congés scolaires de fin d'année" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_251
+
+:FA_251 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Aoüt et 1 semaine durant les vacances de Noël" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_110
+
+:FA_110 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Du 20 décembre  au 21 janvier inclus" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_625
+
+:FA_625 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier sauf le dimanche" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_393
+
+:FA_393 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Fermé en janvier, février et mars 2005" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_153
+
+:FA_153 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, foires annuelles, Noël, 1er janv." .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_441
+
+:FA_441 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Première semaine de janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_475
+
+:FA_475 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, le 1er novembre et du 24 décembre au 1er janvier inclus" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_484
+
+:FA_484 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_712
+
+:FA_712 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er octobre au 30 mars + jours fériés" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_115
+
+:FA_115 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er novembre, 25 décembre, 1er janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_562
+
+:FA_562 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier au 8 février" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_69
+
+:FA_69 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Décembre à mi mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_630
+
+:FA_630 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er Mai, 8 Mai, 1er novembre, 11 novembre et 25 décembre." .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_554
+
+:FA_554 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier à mi-février, 1er mai, 1er et 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_603
+
+:FA_603 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1ère semaine de janvier, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_406
+
+:FA_406 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 22 décembre au 7 janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_522
+
+:FA_522 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 13 juillet" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_495
+
+:FA_495 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, dimanche de Pâques, 1er mai, Ascension, 1er novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_37
+
+:FA_37 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Fermeture les 2ème et 3ème semaines de janvier, et les jours fériés d'octobre à mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_588
+
+:FA_588 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er novembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_670
+
+:FA_670 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 25 et 26 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_734
+
+:FA_734 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 25 décembre et de la fin des vacances de la Toussaint aux vacances de Noël" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_109
+
+:FA_109 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Décembre, 1er janvier, 1er mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_238
+
+:FA_238 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Le 1er novembre, le 25 décembre et le 1er janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_403
+
+:FA_403 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Du 1er novembre au 31 mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_509
+
+:FA_509 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier, février et entre les vacances scolaires, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_667
+
+:FA_667 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Novembre - 1er janvier, 1er mai, 14 juillet matin, 15 août matin, et le 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_68
+
+:FA_68 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 24, 25 et 31 décembre, 1er janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_592
+
+:FA_592 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 14 juillet, 24,25 et 31 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_409
+
+:FA_409 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "25 et 26 décembre et 1ère semaine de janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_684
+
+:FA_684 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Jours férié" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_335
+
+:FA_335 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Février 2012 - du 24 janvier au 8 mars et du 14 octobre au 1er novembre 2012" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_719
+
+:FA_719 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 1er novembre et du 20 au  25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_72
+
+:FA_72 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier, 1er mai, 1er novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_156
+
+:FA_156 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Les 15 derniers jours de décembre - Jours fériés sauf 14 juillet" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_372
+
+:FA_372 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Jours fériés - du 21 décembre 2007 au 2 janvier 2008" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_573
+
+:FA_573 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_285
+
+:FA_285 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "25 décembre ,  1er janvier, 24 mars, 1er mai, 12 mai et 14 juillet 2008" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_209
+
+:FA_209 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 14 juillet, 1er et 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_655
+
+:FA_655 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, le dimanche de Pâques, 1er ami, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_434
+
+:FA_434 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier et jours fériés" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_278
+
+:FA_278 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 15 août, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_648
+
+:FA_648 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 25 décembre - 3 dernières semaines de Novembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_315
+
+:FA_315 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Août" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_6
+
+:FA_6 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, vendredi saint, 1er mai, 1er novembre, 24 et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_728
+
+:FA_728 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Fermé en 2012" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_308
+
+:FA_308 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "26 août 2012 et du 17 décembre 2012 au 1er janvier inclus" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_430
+
+:FA_430 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Jours fériés d'octobre à mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_2
+
+:FA_2 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Novembre à mi-avril" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_137
+
+:FA_137 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er et 11 novembre, 24, 25 30 et 31 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_76
+
+:FA_76 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier àprès les vacances scolaires, 1er mai, 24 et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_452
+
+:FA_452 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Entre octobre et avril" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_400
+
+:FA_400 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, dimanche et lundi de Pâques, 1er mai, 1er novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_500
+
+:FA_500 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 14 juillet et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_449
+
+:FA_449 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "15 décembre au 15 janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_157
+
+:FA_157 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "15 décembre au 15 janvier, 1er mai, 1er & 11 novembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_695
+
+:FA_695 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Certains jours fériés" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_381
+
+:FA_381 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 14 juillet, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_690
+
+:FA_690 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 1er novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_752
+
+:FA_752 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, autres jours fériés, et pendant les congés de fin d'année" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_323
+
+:FA_323 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Août - 1er janvier, 1er mai, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_358
+
+:FA_358 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier, 1er novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_145
+
+:FA_145 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "24, 25, 31 décembre et 1er janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_252
+
+:FA_252 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Fermé le 1er janvier, 1er mai, Pâques, Toussaint, Noël" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_713
+
+:FA_713 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Fermé de novembre au 2 mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_521
+
+:FA_521 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Le 1er janvier, le 1er mai et le 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_21
+
+:FA_21 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier et février, 1er mai, 1er novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_142
+
+:FA_142 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, mi- décembre au 31 janvier inclus" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_368
+
+:FA_368 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er Janvier, 1er Mai, 1er Novembre, 25 Décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_487
+
+:FA_487 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Entre Noël et le jour de l'an -  1er mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_582
+
+:FA_582 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Novembre à mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_468
+
+:FA_468 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er et 8 mai, 14 juillet, 15 août, 1er et 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_637
+
+:FA_637 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "16 décembre au 31 janvier inclus" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_27
+
+:FA_27 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, vendredi saint, 1er mai, 1er et 11 novembre, 25 et 26 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_692
+
+:FA_692 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "24 et 31 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_700
+
+:FA_700 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Du 24 décembre au 2 janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_756
+
+:FA_756 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier, février et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_663
+
+:FA_663 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, dimanche de Pâques, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_608
+
+:FA_608 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er & 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_59
+
+:FA_59 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "25 décembre, 1erjanvier, 1er mai et lors du montage des expositions" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_457
+
+:FA_457 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "15 décembre au 15 mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_85
+
+:FA_85 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Octobre à juin" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_31
+
+:FA_31 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, vendredi saint, 1er mai et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_392
+
+:FA_392 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, dimanche de Pâques, 1er novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_528
+
+:FA_528 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 8 mai et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_559
+
+:FA_559 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er et 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_78
+
+:FA_78 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 11 novembre, 25 & 31 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_163
+
+:FA_163 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier, 1er mai, 25 et 26 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_83
+
+:FA_83 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er & 8 mai, 14 juillet, 1er & 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_50
+
+:FA_50 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 1er novembre, 25 décembre et 1er janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_532
+
+:FA_532 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Jours fériés sauf lundi de Pentecôtes et lundi de Pâques" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_101
+
+:FA_101 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 24 décembre au 31 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_216
+
+:FA_216 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Les 1er janvier, 1er mai, 1er novembre et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_577
+
+:FA_577 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier, 25 décembre, 1er mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_738
+
+:FA_738 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Mai, juin et septembre à novembre - Jours fériés" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_286
+
+:FA_286 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 15 août et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_352
+
+:FA_352 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 1er novembre et 25 décembre. De la Toussaint à l'Ascension" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_210
+
+:FA_210 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "25 janvier 1er janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_16
+
+:FA_16 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier (hors vacances scolaires),  25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_543
+
+:FA_543 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 1er et 11 novembre et pendant les vacances scolaires de Noël" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_739
+
+:FA_739 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Décembre, janvier, 1er mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_519
+
+:FA_519 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 1er novembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_91
+
+:FA_91 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Du 25 décembre au 31 janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_785
+
+:FA_785 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Fêtes" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_725
+
+:FA_725 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "14 juillet et 15 août" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_365
+
+:FA_365 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "De décembre à mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_233
+
+:FA_233 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Jours fériés et du 1er au 25 décembre inclus" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_496
+
+:FA_496 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, dimanche de Pâques, 1er mai, Jeudi de l'Ascension, 1er novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_310
+
+:FA_310 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "25 décembre, 1er janvier, 1er novembre et 1er mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_414
+
+:FA_414 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 23 décembre au 7 janvier inclus" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_367
+
+:FA_367 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Décembre, janvier, février" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_185
+
+:FA_185 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Fermé pendant les vacances scolaires de Noël, 1er mai et 1er novembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_746
+
+:FA_746 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Novembre à avril" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_205
+
+:FA_205 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 1er & 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_94
+
+:FA_94 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "D'octobre à fin fin mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_373
+
+:FA_373 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier et décembre, mardi gras." .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_471
+
+:FA_471 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, la veille du Mardi Gras, le 1er mai et le 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_754
+
+:FA_754 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier et décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_775
+
+:FA_775 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "25 décembre, 1er janvier et dernière semaine de janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_159
+
+:FA_159 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "24 au 31 décembre, Janvier, du 1er au 14 février" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_249
+
+:FA_249 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "25 décembre 2011 au 2 janvier 2012" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_730
+
+:FA_730 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Novembre à février et 1er mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_336
+
+:FA_336 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Fermé du 13 juillet au 19 août" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_646
+
+:FA_646 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 25 décembre - 3 dernières semaines de novembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_571
+
+:FA_571 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "3 semaines de fermeture annuelle" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_574
+
+:FA_574 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "15 décembre au 5 janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_448
+
+:FA_448 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er & 11 novembre, 25 décembre et 1er janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_579
+
+:FA_579 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier, 24 et 31 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_246
+
+:FA_246 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Du 1er au 18 août inclus" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_437
+
+:FA_437 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier au 15 janvier, 1er mai, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_374
+
+:FA_374 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Fermeture annuelle de novembre à mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_38
+
+:FA_38 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Musée Aquitaine" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_113
+
+:FA_113 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Jours fériés et du 25 décembre au 1er janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_605
+
+:FA_605 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1ermai , 11 novembre, du 25 décembre au 2 janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_28
+
+:FA_28 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_704
+
+:FA_704 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Pâques, 1er novembre, Noël et jour de l'An" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_344
+
+:FA_344 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 1er et 11 novembre et du 23 décembre au 6 janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_143
+
+:FA_143 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "15 décembre au 31 janvier, 1er mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_65
+
+:FA_65 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, jours fériés du 16/10 au 14/04" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_203
+
+:FA_203 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Novembre à février, 1er mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_478
+
+:FA_478 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 14 juillet 1er week-end de septembre (braderie de Lille), 1er novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_673
+
+:FA_673 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai,  25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_211
+
+:FA_211 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 14 juillet, 10 et 15 août, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_279
+
+:FA_279 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, dimanche et lundi de Pentecôte, 14 juillet, 15 août, Noël" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_604
+
+:FA_604 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_111
+
+:FA_111 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er et 8 mai, 1er et 11 novembre, 25 décembre au 1er janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_619
+
+:FA_619 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Du 16 décembre au 31 janvier, 1er mai (Hôtel de Cheusses) - Janvier, 1er mai 25 décembre pour l'Ancienne école de Médecine" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_408
+
+:FA_408 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, Vendredi Saint, 1er et 8 mai, Ascension, 14 juil, 15 août, 1er et 11 novembre, 25 décembre, et 24 et 31 décembre après-midi" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_93
+
+:FA_93 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai et du 1er novembre au 28 février" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_184
+
+:FA_184 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "25 décembre et en janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_387
+
+:FA_387 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Jours fériés, 2ème, 4ème et 5ème dimanches du mois" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_527
+
+:FA_527 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, du 16 novembre au 31 janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_345
+
+:FA_345 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "2ème quinzaine de février, 1er janvier, 1er mai, jeudi de l'Ascension, 14 juillet, 1er novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_243
+
+:FA_243 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Août  et jours fériés et du 25 décembre 2010 au 4 janvier 2011" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_701
+
+:FA_701 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janver, lundi de Pâques, 1er & 8 mai, Ascension, lundi de Pentecôte, 14 juillet, Assomption, 1er & 11 novembre et du 24 au 31 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_515
+
+:FA_515 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 25 décembre, 1er mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_86
+
+:FA_86 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Fermé du 24 décembre au 1er janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_319
+
+:FA_319 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai et fêtes de fin d’année" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_705
+
+:FA_705 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier, 1er mai, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_140
+
+:FA_140 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier, février" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_40
+
+:FA_40 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Tous les jours fériés" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_696
+
+:FA_696 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er ajvier, 1er mai, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_539
+
+:FA_539 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er et 8 mai, 14 juillet, 11 novembre et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_776
+
+:FA_776 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 1er novembre et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_326
+
+:FA_326 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Les 1er janvier, 1er mai et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_366
+
+:FA_366 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 14 juillet, 15 août, 1er novembre et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_534
+
+:FA_534 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier et 1er mai, 1er novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_291
+
+:FA_291 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_566
+
+:FA_566 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 1er et 11 novembre et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_32
+
+:FA_32 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Décembre, janvier, février. Fermé les 17,18,31 mars, les 1, 21, 22, 28, 29 avril et 6, 7, 13, 14,20 ,21 octobre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_550
+
+:FA_550 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er, 8  et 13 mai, Ascension, 14 juillet, 15 août, 1er et 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_298
+
+:FA_298 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai - du  22 décembre au 1er janvier 2010" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_769
+
+:FA_769 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Décembre-Janvier-Février" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_237
+
+:FA_237 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Le 1er novembre, 25 décembre, 1er janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_5
+
+:FA_5 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "5 semaines de fermeture annuelle après le 8 janvier. 1er janvier, vendredi Saint, 1er mai, 1er novembre, les 24 et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_520
+
+:FA_520 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Décembre, janvier et février" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_230
+
+:FA_230 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 1er novembre, du 24 décembre au 1er janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_371
+
+:FA_371 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 15 août, 1er novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_481
+
+:FA_481 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, dimanche et lundi de Pâques, 1er et 8 mai, jeudi de l'Ascension, dimanche et lundi de Pentecôte, 14 juillet, dernier lundi de juillet (Foire de Tourcoing), 15 août, Saint Louis (lundi braderie de Lille), 1er et 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_665
+
+:FA_665 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Du 12 au 24 mars, du 13 au 25 novembre, le 25 décembre, le 1er janvier et le 1er mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_322
+
+:FA_322 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Septembre, 1er janvier, lundi de Pâques, 1er mai, lundi de Pentecôtes, Ascension, 14 juillet, Assomption, 15 août, 1er novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_693
+
+:FA_693 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Fermé pour travaux à partir de fin mai 2012  jusqu'en octobre 2013" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_726
+
+:FA_726 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Novembre à Avril" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_324
+
+:FA_324 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 14 juillet, 25 décembre. Fermé du 30 juillet au 15 août 2012" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_659
+
+:FA_659 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, dimanche de Pâques, 1er mai, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_766
+
+:FA_766 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_20
+
+:FA_20 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er  mai, 1er  novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_388
+
+:FA_388 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Entre les vacances de Noël et les vacances de février" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_717
+
+:FA_717 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Entre les vacances de Noël et de février" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_112
+
+:FA_112 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er et 8 mai, 1er et 11 novembre, du 25 décembre au 1er janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_591
+
+:FA_591 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 14 juillet, 1er novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_428
+
+:FA_428 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Les autres mois" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_260
+
+:FA_260 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Une semaine de fermeture pendant les vacances d'hiver" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_161
+
+:FA_161 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier et jours fériés sauf 14 juillet, 15 août et 1er novembre. D'octobre à décembre pour le couvent des cordeliers et sur rdv toute l'année pour la maison des ATP" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_426
+
+:FA_426 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_723
+
+:FA_723 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Jours fériés, et fermeture exceptionnelle" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_154
+
+:FA_154 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er & 8 mai, 1 & 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_523
+
+:FA_523 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "24, 25, 31 décembre, 1er janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_492
+
+:FA_492 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "11 novembre, 24 décembre 2010 au 3 janvier 2011" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_536
+
+:FA_536 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 8 mai, 14 juillet, 11 novembre et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_106
+
+:FA_106 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "31 décembre au 21 mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_74
+
+:FA_74 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 25 décembre. Entre les vacances de la Toussaint et celles de Noël, celles de Noël et celles d'hiver" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_677
+
+:FA_677 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_751
+
+:FA_751 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er et 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_87
+
+:FA_87 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier et février, 1er mai et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_411
+
+:FA_411 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er Janvier, Dimanche de Pâques, 1er Mai, 25 Décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_467
+
+:FA_467 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 1er et 11 novembre, 25 décembre - Fermetures annuelles la 1ère quinzaine de septembre et la 2ème quinzaine de janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_199
+
+:FA_199 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 11 novembre et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_642
+
+:FA_642 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 25 décembre et une semaine en décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_309
+
+:FA_309 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "24 décembre au 1er janvier et 1er mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_102
+
+:FA_102 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Semaine de Noël et jour de l'an" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_123
+
+:FA_123 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "6 novembre au 19 décembre 2009" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_422
+
+:FA_422 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er septembre, 25 décembre, 1er janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_639
+
+:FA_639 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, le 1er mai, le 1er novembre et le 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_126
+
+:FA_126 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er et 11 novembre, 25 décembre et 1er janvier, 1er mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_162
+
+:FA_162 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 1 & 11 novembre, 24 au 26 décembre 31 décembre au 31 Janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_213
+
+:FA_213 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 24 décembre, autres jours fériés, 31 décembre au 14 janvier inclus" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_4
+
+:FA_4 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, dimanche de Pâques, 1er mai, 1er novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_679
+
+:FA_679 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Fermé de mi-décembre à fin janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_473
+
+:FA_473 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, dimanche & lundi après-midi précédent mardi gras, 1er mai, 15 août, 1er novembre, 24  et 31 am et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_304
+
+:FA_304 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, le 1er mai, le 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_643
+
+:FA_643 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 25 décembre - une semaine au début de décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_79
+
+:FA_79 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er et 8 mai, 14 juillet, 1er et 8 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_268
+
+:FA_268 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Août et jours fériés" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_107
+
+:FA_107 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 22 décembre 2012 au 6 janvier 2013" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_732
+
+:FA_732 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_97
+
+:FA_97 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 14 juillet, 1er et 11 novembre, du 15 décembre au 1er mars inclus" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_597
+
+:FA_597 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, lundi de Pâques, 1er mai, lundi de Pentecôte, 1er novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_615
+
+:FA_615 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "25 décembre, 1er janvier et 1er mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_721
+
+:FA_721 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 1er janvier, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_384
+
+:FA_384 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "24, 25 décembre, 1er janvier et de la fin des vacances scolaires de Noël au 1er février" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_575
+
+:FA_575 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, Pâques, Pentecôte, 1er mai, 8 mai, Ascension, 14 juillet, 15 août, 1er novembre, 11 novembre et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_698
+
+:FA_698 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Du 15 décembre au 15 janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_415
+
+:FA_415 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "25 décembre, 1er janvier et le mardi suivant Päques" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_764
+
+:FA_764 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 14 juillet, 15 août, 1er novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_720
+
+:FA_720 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_466
+
+:FA_466 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Jours fériés, samedi au mardi gras inclus (carnaval), du samedi des vacances de Noël à début janvier de l'année suivante" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_632
+
+:FA_632 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "25 décembre, 1er janvier, 1er mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_349
+
+:FA_349 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Du 25 décembre au 2 janvier inclus + jours fériés" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_744
+
+:FA_744 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai et 31 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_172
+
+:FA_172 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier et février" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_307
+
+:FA_307 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 25 décembre, 1er janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_180
+
+:FA_180 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "17 avril, 1er et 8 mai, 5 juin" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_67
+
+:FA_67 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Novembre à mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_276
+
+:FA_276 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Le 1er janvier, le 1er mai, le 8 mai et le 25 décembre 2007" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_479
+
+:FA_479 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, jeudi de l'Ascension, 14 juillet, 15 août, 1er novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_729
+
+:FA_729 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Décembre et janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_504
+
+:FA_504 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, du 1er décembre au 31 janvier, et du 1er octobre au 15 octobre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_609
+
+:FA_609 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er au 15 janvier et 17 au 31 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_757
+
+:FA_757 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_376
+
+:FA_376 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Autres mois" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_654
+
+:FA_654 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, dimanche de Pâques, 1er mai et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_311
+
+:FA_311 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "24 décembre au 1er janvier, 1er mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_518
+
+:FA_518 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Décembre et  janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_737
+
+:FA_737 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Novembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_767
+
+:FA_767 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_436
+
+:FA_436 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier, jours fériés et 1er week-end de juillet" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_664
+
+:FA_664 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Mi-décembre à mi-janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_164
+
+:FA_164 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier, 11 novembre et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_90
+
+:FA_90 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier, 1er mai, 1er et 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_417
+
+:FA_417 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "3 premières semaines de janvier, 14 juillet, 15 août" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_136
+
+:FA_136 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, dimanche de Pâques, 1er novembre et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_200
+
+:FA_200 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "25 décembre,  1ère semaine de janvier, lundi de la Pentecôte" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_412
+
+:FA_412 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er Janvier, Dimanche de Pâques, 1er Mai, 1er Novembre et 25 Décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_264
+
+:FA_264 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, Roch Hachana, Yom Kippour" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_130
+
+:FA_130 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "16 au 31 janvier, jours fériés" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_30
+
+:FA_30 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Décembre, janvier, février, mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_228
+
+:FA_228 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 25 décembre, Janvier (sauf vacances scolaires)" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_225
+
+:FA_225 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "24, 31 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_192
+
+:FA_192 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, vacances de Noël" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_482
+
+:FA_482 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 25 décembre, le lundi suivant le 2ème dimanche de septembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_506
+
+:FA_506 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Mi-novembre à mi-mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_282
+
+:FA_282 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Musée fermé en dehors des expositions temporaires. Certains jours fériés" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_602
+
+:FA_602 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Mi novembre à mi-mars, 1er mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_595
+
+:FA_595 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 1er  novembre et entre le 25 décembre et le 1er janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_753
+
+:FA_753 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_462
+
+:FA_462 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Décembre, janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_703
+
+:FA_703 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Novembre,  1er janvier, 1er et 17 mai, Ascension, Noël" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_19
+
+:FA_19 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 1er novembre, janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_587
+
+:FA_587 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er novembre, 25 décembre et 1er janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_469
+
+:FA_469 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, lundi de Pâques, lundi de Pentecôte, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_771
+
+:FA_771 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Jours fériés, dimanche de Pâques et de Pentecôte" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_711
+
+:FA_711 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Du 1er octobre au 30 mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_407
+
+:FA_407 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "De Novembre à Pâques" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_494
+
+:FA_494 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier et 24, 25, 26 et 31 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_141
+
+:FA_141 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Mi octobre à fin mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_419
+
+:FA_419 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, Ascension, Toussaint, 25 décembre, en octobre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_633
+
+:FA_633 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Du 19 novembre au 19 décembre inclus et 1er mai, 25 décembre et 1er janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_346
+
+:FA_346 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1ère quinzaine de février, 1er novembre, 25 décembre, 1er janvier, 1er mai, 14 juillet, jeudi de l'Ascension" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_516
+
+:FA_516 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, Pâques, 1er mai, Ascension, 1er novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_222
+
+:FA_222 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Musée fermé de mi-novembre à fin mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_413
+
+:FA_413 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Dimanche de Pâques, 1er novembre, 25 et 26 décembre, 1er janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_214
+
+:FA_214 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er et 8 mai, 1er et 11 novembre et 25 janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_450
+
+:FA_450 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 25 décembre et pendant les montages d'expositions" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_427
+
+:FA_427 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Fermé les lundis hors vacances scolaires zone A - 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_558
+
+:FA_558 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Mi-décembre, janvier, février" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_760
+
+:FA_760 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "25 décembre et 1er janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_570
+
+:FA_570 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier, février, mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_117
+
+:FA_117 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 1er et 11 novembre, 16 octobre au 14 mars 2009" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_454
+
+:FA_454 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er Janvier, 1er Mai, 1er Novembre, et 25 Décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_780
+
+:FA_780 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "24, 25 et 31 décembre, 1er janvier, 1er mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_429
+
+:FA_429 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Octobre à mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_395
+
+:FA_395 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai et  25 décembre," .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_160
+
+:FA_160 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Fermé du 12 novembre au 31 mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_557
+
+:FA_557 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier à mars et de novembre à décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_236
+
+:FA_236 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er février au 1er mars - 1er mai, 1er novembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_280
+
+:FA_280 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Jours fériés, dimanche de Pâques et de Pentecôtes" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_299
+
+:FA_299 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Vacances scolaires de fin d'année et août" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_489
+
+:FA_489 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Les 24, 25,26, 31 décembre et le 1er et 2  janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_382
+
+:FA_382 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Mi-novembre à la mi-décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_585
+
+:FA_585 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Les 1er mai, 25 décembre et 31 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_64
+
+:FA_64 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, jours fériés du 01/10 au 30/04" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_552
+
+:FA_552 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, Lundi de Pâques, 1er mai, 8 mai, Lundi de Pentecôte, Ascension, 14 juillet, 15 août, 1er novembre, 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_144
+
+:FA_144 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Week-end de la semaine 45 à la semaine 50 en 2009" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_572
+
+:FA_572 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "24 décembre au 2 janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_364
+
+:FA_364 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er Janvier, 25 Décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_158
+
+:FA_158 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 1er novembre,  25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_15
+
+:FA_15 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, vendredi Saint, dimanche de Pâques, 1er mai, dimanche de Pentecôte, 1er novembre, 24, 25, 31 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_247
+
+:FA_247 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, Août, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_568
+
+:FA_568 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1ermai, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_52
+
+:FA_52 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Jours fériés sauf 14 juillet et 15 août" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_716
+
+:FA_716 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Décembre à janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_567
+
+:FA_567 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier, février,mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_765
+
+:FA_765 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 24, 25 et 31 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_189
+
+:FA_189 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Fêtes de Noël et du Jour de l’An" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_223
+
+:FA_223 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er & 2 janvier, 1er mai, 1er novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_17
+
+:FA_17 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier, les 24, 25, 26 et 31 Décembre et jours fériés" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_784
+
+:FA_784 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Jours fériés" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_273
+
+:FA_273 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "14 juillet" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_329
+
+:FA_329 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Fermé du 21 décembre au 4 janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_356
+
+:FA_356 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Février" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_119
+
+:FA_119 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier à mars, 9 avril, 28 mai, 11 novembre et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_593
+
+:FA_593 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, dimanche de la Pentecôte, 14 juillet, lundi de la Braderie en septembre, 1er novembre et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_634
+
+:FA_634 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Entre Noël et le Jour de l'an et les jours fériés en hiver" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_526
+
+:FA_526 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 1er novembre, 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_661
+
+:FA_661 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, le jour de Pâques, 1er mai, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_498
+
+:FA_498 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, du 4 au 26 janvier 2009, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_416
+
+:FA_416 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er Janvier, 1er mai, 1er novembre et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_313
+
+:FA_313 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "25 décembre et 1er mai et août" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_284
+
+:FA_284 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 15 août, 1er novembre et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_61
+
+:FA_61 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 25 décembre, 1er janvier - Mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_502
+
+:FA_502 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "15 Décembre au 15 janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_774
+
+:FA_774 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, dimanche de Pâques, 1er mai, 14 juillet et le 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_470
+
+:FA_470 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, ascension, 14 juillet, 15 août, 1er & 11 septembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_146
+
+:FA_146 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Octobre à mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_379
+
+:FA_379 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai,  Assomption, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_715
+
+:FA_715 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_707
+
+:FA_707 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "25 décembre au 20 février 2006 et Jours fériés" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_25
+
+:FA_25 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, vendredi saint, lundi de Pâques et de Pentecôte, 1er mai, 14 juillet, 1er et 11 novembre, 25 et 26 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_66
+
+:FA_66 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Décembre à mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_14
+
+:FA_14 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, vendredi saint, 1er mai, 1er et 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_583
+
+:FA_583 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "25 décembre, 1er janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_446
+
+:FA_446 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1 mai et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_181
+
+:FA_181 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Les 1er janvier, 1er mai, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_581
+
+:FA_581 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "11 novembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_779
+
+:FA_779 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Du 20 décembre au 5 janvier et les jours fériés" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_399
+
+:FA_399 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, dimanche de Pâques, 1er mai, 14 juillet, 1er novembre,  25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_98
+
+:FA_98 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "23 décembre au 2 janvier + jours fériés" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_722
+
+:FA_722 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 1er et 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_391
+
+:FA_391 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Entre le 15 décembre et le 1er mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_226
+
+:FA_226 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er et 11 novembre, et congés scolaires de fin d'année" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_47
+
+:FA_47 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "16 décembre au 31 mars, 1er mai, 1er et 11 novembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_89
+
+:FA_89 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Du 1er janvier jusqu'aux vacances de février, le 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_735
+
+:FA_735 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Du 15 octobre au 15 mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_578
+
+:FA_578 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_173
+
+:FA_173 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 1er et 11 novembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_525
+
+:FA_525 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er et 8 mai, 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_533
+
+:FA_533 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier, 1er et 11 Novembre, 24, 25 et 31 Décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_544
+
+:FA_544 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er novembre et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_635
+
+:FA_635 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "A partir du 16 décembre et en janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_600
+
+:FA_600 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 14 juillet, 1er novembre et 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_303
+
+:FA_303 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er Janvier, 1er Mai, 14 Juillet et 25 Décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_658
+
+:FA_658 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, Dimanche de Pâques, 1er mai, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_548
+
+:FA_548 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er, 8 et 13 mai, Ascension, 14 juillet, 15 août, 1er et 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_662
+
+:FA_662 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, le dimanche de Pâques, le 1er mai, le 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_369
+
+:FA_369 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Décembre, janvier et 22 jours en février" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_460
+
+:FA_460 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 1er novembre, 11 novembre et du 24 décembre à fin février" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_540
+
+:FA_540 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er et 8 mai, 14 juillet, 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_666
+
+:FA_666 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, le 1er mai,  le 1er novembre, le 11 novembre et le 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_11
+
+:FA_11 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, Vendredi Saint, 1er mai, 1er et 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_244
+
+:FA_244 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Du 1er au 14 Janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_105
+
+:FA_105 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Fermeture annuelle du 1er novembre au 31 mars 2011" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_432
+
+:FA_432 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "De novembre à mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_629
+
+:FA_629 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "20 décembre au 3 janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_396
+
+:FA_396 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janv., 1er mai, 14 juil., 1er nov. et 25 déc." .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_628
+
+:FA_628 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier, 1er mai, le 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_404
+
+:FA_404 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Octobre à avril" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_731
+
+:FA_731 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Novembre à mars sauf groupes sur rdv" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_499
+
+:FA_499 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "30 novembre au 12 février 2010, 1er mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_511
+
+:FA_511 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Décembre et janvier et jours fériés" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_553
+
+:FA_553 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Fermé les jours fériés, sauf le lundi de Pentecôte et le lundi de Pâques" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_680
+
+:FA_680 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er et 8 mai, Ascencion, 15 août, 1er et 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_768
+
+:FA_768 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Pendant les fêtes de fin d'année et au mois de janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_331
+
+:FA_331 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "15 janvier au 28 février" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_54
+
+:FA_54 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Octobre à décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_84
+
+:FA_84 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er et 8 mai, 14 juillet, 1er et 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_410
+
+:FA_410 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Le 1er janvier, le jour de Pâques, le 1er mai, le 25 et 26 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_165
+
+:FA_165 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Du 24 décembre au 1er janvier inclus et durant les trois premières semaines de janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_474
+
+:FA_474 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Du 15 décembre  au 31 janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_353
+
+:FA_353 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 1 & 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_505
+
+:FA_505 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Janvier à mars" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_647
+
+:FA_647 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "3 dernières semaines de Novembre - 1er janvier, 1er mai, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_718
+
+:FA_718 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Jours fériés (sauf 14 juillet et 15 août)" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_724
+
+:FA_724 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "2 novembre à mars pour les individuels" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_18
+
+:FA_18 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Du 24 décembre au 28 février" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_508
+
+:FA_508 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er mai, 1er & 11 nov,embre, 25 décembre, 1er janvier. Fermeture technique du musée en janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_337
+
+:FA_337 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, dimanche et lundi de Pâques, 1er mai, ascension, lundi de Pentecôte, 8 mai, 14 juillet, 1er et 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_631
+
+:FA_631 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Jours fériés sauf 11 novembre, jeudi de l'Ascension, 14 juillet et 15 août" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_385
+
+:FA_385 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "De mi-septembre aà mi-mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_590
+
+:FA_590 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 25 décembre - Lors des fêtes de fin d'année" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_166
+
+:FA_166 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er octobre au 30 juin excepté du 14 au 22 novembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_318
+
+:FA_318 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Entre le 25 décembre et le 1er janvier, et le 1er mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_777
+
+:FA_777 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "23, 24, 31 décembre, 1er janvier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_537
+
+:FA_537 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 14 juillet, 11 novembre, 25 décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_596
+
+:FA_596 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Jours fériés et dernier dimanche du mois" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_736
+
+:FA_736 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "1er janvier, 1er mai, 25 décembre - mi-novembre-mi-décembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#FA_257
+
+:FA_257 rdf:type owl:NamedIndividual ;
+
+    :aPériodeFermeture "Juillet et août" .
+
+
+

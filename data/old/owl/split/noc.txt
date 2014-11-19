@@ -1,0 +1,528 @@
+###  http://www.musee.com/ontologies/musee.owl#NO_55
+
+:NO_55 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Premiers samedis de 10h à 21h de janvier à juin" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_20
+
+:NO_20 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Vendredi jusqu'à 21h30" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_58
+
+:NO_58 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Les premiers Vendredis de chaque mois jusqu'à 20h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_8
+
+:NO_8 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Les jeudis de 18h à 20h en période d'expositions temporaires" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_46
+
+:NO_46 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "1 jeudi/mois jusqu'à 20h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_64
+
+:NO_64 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "samedi" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_5
+
+:NO_5 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Mardi jusqu'à 21h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_41
+
+:NO_41 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Premier samedi du mois de 20h à 22h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_25
+
+:NO_25 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Jeudi jusqu'à 23h selon les expositions" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_13
+
+:NO_13 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Mardi jusqu'à 21h d'avril à septembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_51
+
+:NO_51 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Nocturnes événementielles" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_10
+
+:NO_10 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Le jeudi jusqu'à 20h lors de la biennale" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_23
+
+:NO_23 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Mercredi jusqu'à 22h pour les expositions temporaires" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_44
+
+:NO_44 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Jeudi jusqu'à 20h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_35
+
+:NO_35 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Tous les mardis jusqu'à 22h du 6 juillet au 24 août" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_59
+
+:NO_59 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Mardi jusqu'à 20h de juin à août" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_66
+
+:NO_66 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Le vendredi jusqu'à 22h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_28
+
+:NO_28 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "jeudi jusqu'à 20h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_70
+
+:NO_70 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Le vendredi en juillet-août jusqu'à 23h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_52
+
+:NO_52 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Tous les jeudis en juillet et août de 21h à 0h30" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_6
+
+:NO_6 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "de juin à septembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_73
+
+:NO_73 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Nuit des musées" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_11
+
+:NO_11 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Jusqu'à 21h pendant les expositions temporaires" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_16
+
+:NO_16 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Jeudi jusqu'à 21h45" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_43
+
+:NO_43 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Vendredi jusqu'à 20h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_42
+
+:NO_42 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "3ème jeudi du mois jusqu'à 20h30 du 1er avril au 31 octobre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_29
+
+:NO_29 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Tous les 1er jeudi du mois jusqu'à 21h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_54
+
+:NO_54 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Jusqu'à 21h le jeudi" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_38
+
+:NO_38 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "jusqu'à 20 h jeudi à samedi jusqu'en avril et samedi à partir de mai" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_65
+
+:NO_65 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Jeudi jusqu'à 20h ou 21h selon saison" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_61
+
+:NO_61 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "mercredi et vendredi jusqu'à 20h en juillet-août" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_2
+
+:NO_2 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "jeudi fermeture à 20h et  jusqu'à 20h30 en juillet et août" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_27
+
+:NO_27 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Premier jeudi du mois jusqu'à 20h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_56
+
+:NO_56 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Mai à septembre ouvert jusqu'à 20h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_39
+
+:NO_39 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Mercredi jusqu'à 21h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_72
+
+:NO_72 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "1er vendredi de chaque mois" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_22
+
+:NO_22 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Vendredi jusqu'à 21h pour les individuels" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_37
+
+:NO_37 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Mercredi et vendredi de 21h à 23h du 1er juillet au 15 septembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_62
+
+:NO_62 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "jusqu'à 20h les mercredis et vendredis en juillet-août" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_68
+
+:NO_68 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "le jeudi en juillet-août jusqu'à 21 h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_24
+
+:NO_24 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Jeudi jusqu'à 21 h 30" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_18
+
+:NO_18 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Mardi jusqu'à 20h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_21
+
+:NO_21 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Jeudi jusqu'à 21 h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_9
+
+:NO_9 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Mercredi jusqu'à 20h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_67
+
+:NO_67 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Tous les mardis de l'été de 19h à 22h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_47
+
+:NO_47 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "jusqu'à 22h les 26/07, 09/08 et 23/08" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_71
+
+:NO_71 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Pendant le festival Berlioz jusqu'à 20h (16 jours)" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_19
+
+:NO_19 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Jeudi jusqu'à 21h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_15
+
+:NO_15 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Premier jeudi du mois jusqu'à 21h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_7
+
+:NO_7 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Du 22 juin au 21 septembre jusqu'à 20h (tous les jours)" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_30
+
+:NO_30 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Samedi de 18h30 à 22h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_74
+
+:NO_74 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Nuit Blanche (octobre) jusqu'à minuit et de minuit à 8 h le lendemain" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_57
+
+:NO_57 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Samedi jusqu'à 20h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_26
+
+:NO_26 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Jeudi, vendredi, samedi jusqu'à 21h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_14
+
+:NO_14 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Mercredi et vendredi jusqu'à 22h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_33
+
+:NO_33 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "jeudi soir en juillet-aôut" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_34
+
+:NO_34 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Second jeudi de chaque mois jusqu'à 21h, et tous les jeudis en juillet août" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_60
+
+:NO_60 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "jusqu'à 20h en juillet-août" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_4
+
+:NO_4 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "En juillet et août jusqu'à 20h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_32
+
+:NO_32 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Jeudis en juillet-août" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_48
+
+:NO_48 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Jeudi jusqu'à 20 h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_3
+
+:NO_3 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Mercredi de 19h à 21h" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_45
+
+:NO_45 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Ouvert jusqu'à 22h le premier vendredi de chaque mois de septembre à juin" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_63
+
+:NO_63 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Mercredi jusqu'à 21h en juin, juillet, août et septembre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_53
+
+:NO_53 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "tous les mardi jusqu'à 22h30 en juillet-août" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#NO_17
+
+:NO_17 rdf:type owl:NamedIndividual ;
+
+    :aPériodeNocturne "Vendredi jusqu'à 22h dans des expositions" .
+
+
+

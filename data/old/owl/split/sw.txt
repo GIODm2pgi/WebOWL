@@ -1,0 +1,7392 @@
+###  http://www.musee.com/ontologies/musee.owl#SW_302
+
+:SW_302 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.château-montbeliard.net ou site du pays de montbeliard" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_84
+
+:SW_84 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museum.bayonne.fr ou www.ansot.bayonne.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_737
+
+:SW_737 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville - www.ville-lehavre.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_237
+
+:SW_237 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville www.ville-amboise.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_712
+
+:SW_712 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.flers-agglomeration.fr/57-le-musee-du-chateau.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_544
+
+:SW_544 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.musee-verre.webmuseo.com/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_2
+
+:SW_2 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.betschdorf.fr/tourisme/visiter_betschdrof/musee_poterie.php" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_214
+
+:SW_214 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.suscinio.info" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_757
+
+:SW_757 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de l'OT - www.tourisme-yvetot.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_233
+
+:SW_233 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.issoudun.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_234
+
+:SW_234 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la région ou www.pays-george-sand.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_133
+
+:SW_133 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.montbard.com/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_681
+
+:SW_681 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://cpievdo.fr/cpie-presentation-environnement/musee-d-initiation-a-la-nature - site de la région" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1033
+
+:SW_1033 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-echirolles.fr/sortir/geocharles/geocharles.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_323
+
+:SW_323 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-des-techniques.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_335
+
+:SW_335 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de l'association des amis -  www.annees30.com/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_550
+
+:SW_550 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-du-pays-de-sarrebourg.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_576
+
+:SW_576 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.millauculture.fr ou www.ot-millau.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_779
+
+:SW_779 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville : www.ville-cholet.fr/musee-art-histoire.php" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_760
+
+:SW_760 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://museepaysderetz.com/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_98
+
+:SW_98 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-aaa.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_869
+
+:SW_869 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.oleron-nature-culture.com ou www.alienor.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1010
+
+:SW_1010 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.treffort-cuisiat.com/musee.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_256
+
+:SW_256 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees.regioncentre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_8
+
+:SW_8 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.pfaffenhoffen.org ou http://webmuseo.com/ws/musee-image-populaire/app/report/index.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_86
+
+:SW_86 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.arnaga.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_583
+
+:SW_583 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-jacobins.auch.fr www.auch-tourisme.com ou site de la mairie" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_769
+
+:SW_769 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.parc-naturel-briere.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_989
+
+:SW_989 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.vaucluse.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_419
+
+:SW_419 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville : www.ville-melun.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_49
+
+:SW_49 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museevoulgre.cjb.net" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_611
+
+:SW_611 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-automate.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_933
+
+:SW_933 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.arles-antiques.cg13.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_752
+
+:SW_752 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site des musées de la région ou www.cndp.fr/musee" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_306
+
+:SW_306 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cg70.fr/decouvertes/musee" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_288
+
+:SW_288 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-maisonbonaparte.fr - www.musees-nationaux-napoleoniens.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_654
+
+:SW_654 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musenor.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_713
+
+:SW_713 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-laigle.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_800
+
+:SW_800 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de la ville" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_72
+
+:SW_72 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.parc-landes-de-gascogne.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_176
+
+:SW_176 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site des musées de Bourgogne" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_608
+
+:SW_608 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de l'association des amis du musée" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_946
+
+:SW_946 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-mediterranee.org/43/fiche-musee.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_911
+
+:SW_911 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-beaux-arts-nice.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_304
+
+:SW_304 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.musee-courbet.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_488
+
+:SW_488 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://uzesmusee.blogspot.fr/ ou http://www.uzes-tourisme.com/sitefr/musees/borias.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1027
+
+:SW_1027 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-hydrelec.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_968
+
+:SW_968 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://musee-artillerie.chez-alice.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_882
+
+:SW_882 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-poitiers.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_28
+
+:SW_28 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-unterlinden.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1077
+
+:SW_1077 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedesconfluences.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_112
+
+:SW_112 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.puydedome.fr rubrique découvrir le Puy-de-Dôme" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_38
+
+:SW_38 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.collection-schlumpf.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_384
+
+:SW_384 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedelapub.org et www.lesartsdecoratifs.fr/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_409
+
+:SW_409 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.amtuir.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_561
+
+:SW_561 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville - www.ville-saintdie.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_815
+
+:SW_815 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-laon.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_243
+
+:SW_243 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-balzac.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_293
+
+:SW_293 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-bastia.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1044
+
+:SW_1044 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-grande-chartreuse.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_816
+
+:SW_816 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.abbaye-saintmichel.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_763
+
+:SW_763 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museum.nantes.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_805
+
+:SW_805 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-deuxvictoires.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_337
+
+:SW_337 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.albert-kahn.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_913
+
+:SW_913 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-archeologique-nice.org ou www.musee-archeologique-nice.org/ ou www.nice-coteazur.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_555
+
+:SW_555 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedelimage.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_722
+
+:SW_722 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site des musées de Haute-Normandie ou site de la ville" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_346
+
+:SW_346 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la mairie : /www.mairie-rueilmalmaison.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_951
+
+:SW_951 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mairie-marseille.fr/vivre/culture/musees.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_507
+
+:SW_507 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mescevennes.com/decouvertes/ecomusee_loz.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1000
+
+:SW_1000 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.madoi.re/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_467
+
+:SW_467 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.ville-castelnaudary.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_739
+
+:SW_739 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museum-lehavre.fr ou site de la ville" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_492
+
+:SW_492 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-beziers.fr/culture/02.cfm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_363
+
+:SW_363 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.lesartsdecoratifs.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_73
+
+:SW_73 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.saint-sever.fr/culture_musee.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_845
+
+:SW_845 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site collectif du CMPC : www.Alienor.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_32
+
+:SW_32 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-du-vignoble-alsace.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_427
+
+:SW_427 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museeairespace.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1089
+
+:SW_1089 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de l'Académie - http://academie.sup.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_91
+
+:SW_91 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://site.voila.fr/Bourbonnais/charles/index.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_740
+
+:SW_740 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museepierrecorneille.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_421
+
+:SW_421 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-prehistoire-idf.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_219
+
+:SW_219 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville www.ville-bourges.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_371
+
+:SW_371 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedusport.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_699
+
+:SW_699 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-cherbourg.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_758
+
+:SW_758 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cap-atlantique.fr/tourisme-loisirs/Musee/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_295
+
+:SW_295 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cg2b.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_35
+
+:SW_35 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://musee.spmulhouse.free.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_64
+
+:SW_64 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-libourne.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_66
+
+:SW_66 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.dax.fr/musee-de-borda - Site des musées aquitains" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1006
+
+:SW_1006 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville : www.ville-oyonnax.fr/culture/museepeigneetplast.php" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_844
+
+:SW_844 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site internet de la ville www.ville-peronne.fr ou http://www.haute-somme.com/danicourt/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_563
+
+:SW_563 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.cr-martinique.fr/francais/institution/serv-region/musees/histoire_ethno.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_801
+
+:SW_801 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.lachaizelevicomte.fr/fr/information/6403/musee-ornithologique-charles-payraudeau" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_132
+
+:SW_132 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site des musée de Bourgogne" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_804
+
+:SW_804 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-montaigu.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_852
+
+:SW_852 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://musee.fouras.assoc.pagespro-orange.fr/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_538
+
+:SW_538 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://otsisaintmihiel.e-monsite.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1025
+
+:SW_1025 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.chateaudemontrottier.com ou www.academie-florimontane.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_581
+
+:SW_581 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.aveyron-culture.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_640
+
+:SW_640 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedelachartreuse.fr/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_333
+
+:SW_333 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville - www.mairie-dourdan.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_631
+
+:SW_631 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de la ville ou www.mediatheque-anzin.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_919
+
+:SW_919 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ecomusee-roudoule.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_846
+
+:SW_846 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de société archéologique - www.archeologie-charente.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_518
+
+:SW_518 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museecloitre-tulle.com ou www.ville-tulle.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_710
+
+:SW_710 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museesvilledieu.sitew.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_67
+
+:SW_67 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.culture-commune.fr - www.arthous.landes.org/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_281
+
+:SW_281 rdf:type owl:NamedIndividual ;
+
+    :aURL "En cours de réalisation" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1087
+
+:SW_1087 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville - www.chambery.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_153
+
+:SW_153 rdf:type owl:NamedIndividual ;
+
+    :aURL "site des musées de Bourgogne" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_700
+
+:SW_700 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-coutances.fr/musee.php" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_506
+
+:SW_506 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museepaulvalery-sete.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_9
+
+:SW_9 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.lacastine.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_721
+
+:SW_721 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-andelys.fr/Mus%C3%A9e_Nicolas_Poussin_cms183.aspx" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_210
+
+:SW_210 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedufaouet.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1062
+
+:SW_1062 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-art-industrie.saint-etienne.fr ou www.saint-etienne.fr rubrique vivre la culture" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_515
+
+:SW_515 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.450000ans.com ou www.cerptautavel.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_918
+
+:SW_918 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-archeologique-nice.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_541
+
+:SW_541 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de la conservation : www.cg55.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_70
+
+:SW_70 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedelachalosse.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_516
+
+:SW_516 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-labenche.com ou www.brive.net" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_451
+
+:SW_451 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://musee.ville-mantes-la-jolie.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_669
+
+:SW_669 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.letouquet.com ou http://www.letouquet-musee.com/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_483
+
+:SW_483 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de la ville - www.nimes.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_648
+
+:SW_648 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cg59.fr ou www.tourisme-lecateau.fr/museematisse" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_546
+
+:SW_546 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.centrepompidou-metz.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_662
+
+:SW_662 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.opale-sud.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_158
+
+:SW_158 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ecomusee-de-la-bresse.com ou site des musées de Bourgogne" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_667
+
+:SW_667 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-quentovic.fr/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_996
+
+:SW_996 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.stellamatutina.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_886
+
+:SW_886 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de la ville - www.barcelonnette.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1073
+
+:SW_1073 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-gallo-romains.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_95
+
+:SW_95 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mab.allier.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_231
+
+:SW_231 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.château-azay-le-ferron.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_461
+
+:SW_461 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedelaville.agglo-sqy.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_729
+
+:SW_729 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mairie-dieppe.fr ou www.musees-haute-normandie.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_358
+
+:SW_358 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.aphp.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1046
+
+:SW_1046 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-vienne.fr  Site du patrimoine de l'Isère" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_513
+
+:SW_513 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la mairie - www.mairie-perpignan.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_616
+
+:SW_616 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-castres.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_720
+
+:SW_720 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.lacoutureboussey.com/default.asp?file=pg25-1_fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_227
+
+:SW_227 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://perso.orange.fr/marcelproust/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_310
+
+:SW_310 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.luxeuil.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_694
+
+:SW_694 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.cc-vire.fr/web/le_musee.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1065
+
+:SW_1065 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.graha-museethimonnier.org site de la ville" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_7
+
+:SW_7 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-niederbronn.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_300
+
+:SW_300 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.besancon.fr/museedutemps" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_465
+
+:SW_465 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.eburomagus.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_339
+
+:SW_339 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville - www.mairie-colombes.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_82
+
+:SW_82 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museearudy.com ou www.ot-arudy.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_501
+
+:SW_501 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-languedocien.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1076
+
+:SW_1076 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.chrd.lyon.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_925
+
+:SW_925 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mairie-aixenprovence.fr/Pavillon-Vendome ou www.museum-aix-en-provence.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_44
+
+:SW_44 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ecomusee-alsace.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_469
+
+:SW_469 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mairie-narbonne.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_552
+
+:SW_552 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.sarreguemines-museum.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_902
+
+:SW_902 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museesdegrasse.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_240
+
+:SW_240 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.prehistoiregrandpressigny.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_621
+
+:SW_621 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville :  www.ville-gaillac.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1080
+
+:SW_1080 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-gallo-romains.com ou www.rhone.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_880
+
+:SW_880 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.lasabline.fr ou www.lussac-les-chateaux.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_138
+
+:SW_138 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cg58.fr/patrimoi/costu.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_470
+
+:SW_470 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mairie-narbonne.ff" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_475
+
+:SW_475 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site dela ville ou Site du conseil général" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_476
+
+:SW_476 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville ou site du conseil général" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1041
+
+:SW_1041 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.matheysine.com/musee-mathesin ou www.patrimoine-en-isere.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1003
+
+:SW_1003 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.archeologie-izernore.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_151
+
+:SW_151 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site des musées de Bourgogne ou www.bourbon-lancy.com/musees_fr_02_07_02.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_474
+
+:SW_474 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de la ville - www.ville-ales.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_732
+
+:SW_732 rdf:type owl:NamedIndividual ;
+
+    :aURL "Sites de la ville et des musées de Haute-Normandie" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_361
+
+:SW_361 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-hugo.paris.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_238
+
+:SW_238 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.chinon-histoire.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_195
+
+:SW_195 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-ecole.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_87
+
+:SW_87 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.musee-de-guethary.fr/ OU Site des musées aquitains" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_297
+
+:SW_297 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-arts-besancon.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_294
+
+:SW_294 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-corse.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_655
+
+:SW_655 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.roubaix-lapiscine.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1011
+
+:SW_1011 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cc-bassin-annonay.fr/-Le-Musee-Cesar-Filhol-.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_534
+
+:SW_534 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mairie-nancy.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_982
+
+:SW_982 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museum-avignon.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_487
+
+:SW_487 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedescevennes.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1072
+
+:SW_1072 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mba-lyon.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_424
+
+:SW_424 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site du conseil général - www.seine-et-marne.fr - rubrique loisirs" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_177
+
+:SW_177 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-zervos.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_533
+
+:SW_533 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ecole-de-nancy.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_143
+
+:SW_143 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.tourisme.cc-loire-foret.fr ou www.cg58.fr et Site des musées de Bourgogne" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_129
+
+:SW_129 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.dijon.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_622
+
+:SW_622 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://musee-textile.tarn.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_376
+
+:SW_376 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.catacombes-de-paris.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1035
+
+:SW_1035 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-archeologique-grenoble.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1085
+
+:SW_1085 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.albertville.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1008
+
+:SW_1008 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-chintreuil.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_907
+
+:SW_907 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-nationaux-alpesmaritimes.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_908
+
+:SW_908 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-matisse-nice.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_927
+
+:SW_927 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.academiedaix.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1002
+
+:SW_1002 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://brou.munuments-nationaux.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_290
+
+:SW_290 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.napoleon.org ou http://www.ajaccio.fr/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_701
+
+:SW_701 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.equeurdreville.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1067
+
+:SW_1067 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.moca-lyon.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_478
+
+:SW_478 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museecevenol.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_807
+
+:SW_807 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville - www.ville-noirmoutier.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_500
+
+:SW_500 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.montpellier-agglo.com/museefabre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1036
+
+:SW_1036 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.resistance-en-isere.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1045
+
+:SW_1045 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-vienne.fr - Site du patrimoine de l'Isère" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_380
+
+:SW_380 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-legiondhonneur.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_407
+
+:SW_407 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.seine-et-marne.fr (rubrique loisirs/musées départementaux)" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_131
+
+:SW_131 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site des musées de Bourgogne - www.musees-bourgogne.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_220
+
+:SW_220 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.ville-mehun-sur-yevre.fr/Le-Château" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_542
+
+:SW_542 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-verdun.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_879
+
+:SW_879 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.alienor.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_854
+
+:SW_854 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.protestantisme-museelarochelle.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_828
+
+:SW_828 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-chateau-compiegne.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_745
+
+:SW_745 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site des musées de la région ou www.pnr-seine-normande.com/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_185
+
+:SW_185 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.concarneau-cornouaille.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_425
+
+:SW_425 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville www.savigny-le-temple.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_788
+
+:SW_788 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la mairie - http://musees.laval.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_449
+
+:SW_449 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-promenade.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_708
+
+:SW_708 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.tatihou.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_399
+
+:SW_399 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mnhn.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_743
+
+:SW_743 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-sapeurs-pompiers.org - www.mairie-montville.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_785
+
+:SW_785 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://patrimoine.chateaugontier.fr/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1070
+
+:SW_1070 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.chu-lyon.fr/internet/chu/musee/presentation_musee.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_613
+
+:SW_613 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-toulouse-lautrec.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_726
+
+:SW_726 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.litterature-lieux.com/fiche-site-80.htm - Site des musées de la région" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_426
+
+:SW_426 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.weine-et-marne.fr (rubrique loisirs/musées départementaux)" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_829
+
+:SW_829 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-figurine.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_599
+
+:SW_599 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.augustins.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_343
+
+:SW_343 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-meudon.fr/meudon/culture-et-patrimoine/copy5_of_structures-culturelles" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_914
+
+:SW_914 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mhnnice.org ou www.nice-coteazur.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_175
+
+:SW_175 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.centre-colette.com - http://www.yonne-89.net/MuseeColette.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_600
+
+:SW_600 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.lesabattoirs.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_619
+
+:SW_619 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville www.ville-gaillac.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1081
+
+:SW_1081 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.haut-beaujolais.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1084
+
+:SW_1084 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville - www.aixlesbains.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_206
+
+:SW_206 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ecomusee-st-degan.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_69
+
+:SW_69 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mont-de-marsan.org/decouvrir/decouv_muse.html ou Site des musées aquitains" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_572
+
+:SW_572 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site du Service d'exploitation des sites touristiques de l'Ariège - www.sesta.fr ou www.grands-sites-ariege.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_830
+
+:SW_830 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de la mairie - www.mairie-creil.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_431
+
+:SW_431 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville - www.argenteuil.fr/article.php3?id_article=529" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_980
+
+:SW_980 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.petit-palais.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_657
+
+:SW_657 rdf:type owl:NamedIndividual ;
+
+    :aURL "site du département - www.nordmag.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_422
+
+:SW_422 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville - www.ville-nemours.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_512
+
+:SW_512 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la mairie : www.mairie-perpignan.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_837
+
+:SW_837 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.m-a-o.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_347
+
+:SW_347 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-saint-cloud.fr/temps_libre/musee.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_65
+
+:SW_65 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.hydravions-biscarrosse.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_822
+
+:SW_822 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la mairie - www.mairie-villerscotterets.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_224
+
+:SW_224 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.lecompa.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1030
+
+:SW_1030 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-archeologique-aoste.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_443
+
+:SW_443 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://musee.vet-alfort.fr/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_790
+
+:SW_790 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museeduchateaudemayenne.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_545
+
+:SW_545 rdf:type owl:NamedIndividual ;
+
+    :aURL "musees.metzmetropole.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_932
+
+:SW_932 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museereattu.arles.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_751
+
+:SW_751 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.rouen-musees.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_444
+
+:SW_444 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-nogentsurmarne.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_308
+
+:SW_308 rdf:type owl:NamedIndividual ;
+
+    :aURL "site des musées de la région ou site de la ville" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_891
+
+:SW_891 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museeprehistoire.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_659
+
+:SW_659 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.valenciennes.fr(culture/musee)" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1014
+
+:SW_1014 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.soyons.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1060
+
+:SW_1060 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-mine.saint-etienne.fr OU site de la ville : www.saint-etienne.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_80
+
+:SW_80 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.sauveterre-prehistoire.fr ou Site des musées aquitains" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_154
+
+:SW_154 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site des musées de Bourgogne ou site de la ville - http://www.ville-charolles.fr/musee-du-prieure" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1017
+
+:SW_1017 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cg26.fr/fr/tourisme/chateaux/montelimar.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_761
+
+:SW_761 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de la ville - www.ville-guerande.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_826
+
+:SW_826 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-vivenel.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_960
+
+:SW_960 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.saintesmaries.com/fr/accueil/village/le-musee.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_850
+
+:SW_850 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-cognac.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1082
+
+:SW_1082 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-paul-dini.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_696
+
+:SW_696 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mairie-bricquebec.fr/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_278
+
+:SW_278 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.maison-de-l-outil.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_734
+
+:SW_734 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de la région" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_498
+
+:SW_498 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedelodeve.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_63
+
+:SW_63 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site des musées d'aquitaine" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_536
+
+:SW_536 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de la ville - http://www.barleduc.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_481
+
+:SW_481 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.nimes.fr/index.php?id=282" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1019
+
+:SW_1019 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-romans.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_356
+
+:SW_356 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.paris.fr/musees/musee_carnavalet" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_157
+
+:SW_157 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ecomusee-creusot-montceau.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_117
+
+:SW_117 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.riom-communaute.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_842
+
+:SW_842 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://mairie-doullens.pagesperso-orange.fr/zone1/pageLibre00010098.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_832
+
+:SW_832 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-nacre.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_20
+
+:SW_20 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-strasbourg.eu" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_643
+
+:SW_643 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.musenor.com/gm/dunker1.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_505
+
+:SW_505 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.pays-saintponais.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_39
+
+:SW_39 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-impression.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_632
+
+:SW_632 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.annuaire-mairie.fr/musee-de-la-societe-archeologique-d-avesnes-sur-helpe.html#musee" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1078
+
+:SW_1078 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.gadagne.musees.lyon.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_199
+
+:SW_199 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ecomusee-rennes-metropole.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_433
+
+:SW_433 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.valdoise.fr/content/content15651.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_554
+
+:SW_554 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cg57.fr/culture/1-8-delatour.asp" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_702
+
+:SW_702 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-granville.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_486
+
+:SW_486 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville - www.ville-saint-gilles.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_834
+
+:SW_834 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-noyon.fr/Le-musee-du-Noyonnais.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_787
+
+:SW_787 rdf:type owl:NamedIndividual ;
+
+    :aURL "site du conseil général - www.cg53.fr ou lamayenne.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_77
+
+:SW_77 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site des musées aquitains et site de la ville" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_144
+
+:SW_144 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_809
+
+:SW_809 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-milcendeau.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_322
+
+:SW_322 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.salinesdessalins.com ou www.musees-des-techniques.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_448
+
+:SW_448 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedelatoiledejouy.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_674
+
+:SW_674 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de la ville - www.villesamer.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_200
+
+:SW_200 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-bretagne.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_121
+
+:SW_121 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site des musées de la région ou site de la ville" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_999
+
+:SW_999 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site internet du Conseil général - http//www.cg974.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_929
+
+:SW_929 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museum-aix-en-provence.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_428
+
+:SW_428 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mairie-livrygargan.fr/rubrique culture loisirs" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_319
+
+:SW_319 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-lunette.fr ou www.musees-franchecomte.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_375
+
+:SW_375 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cernuschi.paris.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1075
+
+:SW_1075 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museepompiers.com/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_327
+
+:SW_327 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cg971.fr/musees/clerc/index_edgar.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1083
+
+:SW_1083 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.aimesavoie.com (site de l'OT)" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_394
+
+:SW_394 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-orangerie.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_247
+
+:SW_247 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museum.tours.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_164
+
+:SW_164 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.cg71.fr/musee_compagnonnage/ ou http://musee-compagnonnage.cg71.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_420
+
+:SW_420 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.ville-moret-sur-loing.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_923
+
+:SW_923 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.villefranche-sur-mer.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_100
+
+:SW_100 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-aurillac.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1052
+
+:SW_1052 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.ville-charlieu.fr/avoir/musees/le-musee-hospitalier" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_55
+
+:SW_55 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site des musées aquitains" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_778
+
+:SW_778 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedutextile.com ou www.ville-cholet.fr/musee-textile.php" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1049
+
+:SW_1049 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-voiron.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_718
+
+:SW_718 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-haute-normandie.fr ou site de la ville" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_939
+
+:SW_939 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museelambesc.free.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_405
+
+:SW_405 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.quaibranly.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_370
+
+:SW_370 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ml-leclerc-moulin.paris.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_280
+
+:SW_280 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.ville-chaumont.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_706
+
+:SW_706 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.sitesetmusees.cg50.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_705
+
+:SW_705 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.saint-lo.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_521
+
+:SW_521 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cite-tapisserie.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_397
+
+:SW_397 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-europemediterranee.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_410
+
+:SW_410 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.tourisme77.fr ou www.coulommiers.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_101
+
+:SW_101 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.saint-flour.fr/culture/musees/ecomusee-margeride.php" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_671
+
+:SW_671 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-ville-saint-omer.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_615
+
+:SW_615 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-castres.fr ou www.musees-midi-pyrenees.fr/musees/centre-national-et-musee-jean-jaures/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_970
+
+:SW_970 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-frejus.fr/hermes/culture/musee.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_571
+
+:SW_571 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville : www.citaenet.com/montsegur" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_477
+
+:SW_477 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.beaucaire.fr/spip.php?article65" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1009
+
+:SW_1009 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees.ain.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_43
+
+:SW_43 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-thann.fr - http://www.genealogiethaznn.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_602
+
+:SW_602 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.chateaudemauvezin.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_246
+
+:SW_246 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-rabelais.fr ou site du conseil général" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1
+
+:SW_1 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.barr.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_998
+
+:SW_998 rdf:type owl:NamedIndividual ;
+
+    :aURL "http//www.cg974.fr/museum" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_840
+
+:SW_840 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.amiens.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_969
+
+:SW_969 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.frejus.fr/Musee_Archeologique__155.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_938
+
+:SW_938 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museeciotaden.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_520
+
+:SW_520 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.ussel19.fr/culture-patrimoine/musee-du-pays-d-ussel.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_150
+
+:SW_150 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ecomusee-creusot-montceau.fr Site des musées de Bourgogne et de l'écomusée" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_598
+
+:SW_598 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.SaintRaymond.toulouse.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_435
+
+:SW_435 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.archea-roissyportedefrance.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_326
+
+:SW_326 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-des-techniques.org ou www.cc-pays-sous-vosgien.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1020
+
+:SW_1020 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-saintpaultroischateaux.fr/-Musee-d-archeologie-tricastine-.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_941
+
+:SW_941 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.maillane.fr/tourisme/musee.php" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_252
+
+:SW_252 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.chateaudeblois.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_658
+
+:SW_658 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.muba-tourcoing.fr/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_560
+
+:SW_560 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.remiremont.fr/culture/musees.php" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_675
+
+:SW_675 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-arromanches.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_341
+
+:SW_341 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.issy.com/musee" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_104
+
+:SW_104 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.museechilhac.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_994
+
+:SW_994 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville - www.vaison-la-romaine.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_570
+
+:SW_570 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.sesta.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_783
+
+:SW_783 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.lemuseedelardoise.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_633
+
+:SW_633 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site du conseil général : www.cg59.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_315
+
+:SW_315 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville ou site des musées de la région" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_775
+
+:SW_775 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-angers.fr/museum" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_670
+
+:SW_670 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.2p2m.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_820
+
+:SW_820 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.resistance-deportation-picardie.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_348
+
+:SW_348 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.chateau-sceaux.fr ou/www.domaine-de-sceaux.fr (site du conseil général) ou www.sceaux.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_22
+
+:SW_22 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-lalique.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_930
+
+:SW_930 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.parc-camargue.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_894
+
+:SW_894 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-fernandleger.fr ou http://www.musees-nationaux-alpesmaritimes.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1018
+
+:SW_1018 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://museeartsacre.free.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1056
+
+:SW_1056 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ladiana.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_678
+
+:SW_678 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mba.caen.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_103
+
+:SW_103 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-douet.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_496
+
+:SW_496 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site créé en décembre 2012" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_874
+
+:SW_874 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://museeruralies.free.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_685
+
+:SW_685 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-molay-littry.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_580
+
+:SW_580 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cg12.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_198
+
+:SW_198 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mbar.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_680
+
+:SW_680 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.memorial.caen.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_928
+
+:SW_928 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.atelier-cezanne.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_677
+
+:SW_677 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-de-normandie.eu" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_494
+
+:SW_494 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de la ville - www.ville-frontignan.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_665
+
+:SW_665 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee.calais.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_416
+
+:SW_416 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de la ville - www.ville-meaux.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_641
+
+:SW_641 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museeportuaire.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_110
+
+:SW_110 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.clermont-ferrand.fr/-Musee-Bargoin-.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_557
+
+:SW_557 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-lutherie-mirecourt.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_936
+
+:SW_936 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville - www.fontvieille.provence.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_42
+
+:SW_42 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museepapierpeint.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1051
+
+:SW_1051 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.ville-charlieu.fr/avoir/musees/musee-de-la-soierie" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_624
+
+:SW_624 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-lisle-sur-tarn.fr - http://musee.lislesurtarn.over-blog.fr/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_644
+
+:SW_644 rdf:type owl:NamedIndividual ;
+
+    :aURL "http//clec.free.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_630
+
+:SW_630 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville : www.saint-antonin-noble-val.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_291
+
+:SW_291 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.levie-altarocca.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_747
+
+:SW_747 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedesantiquites.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_853
+
+:SW_853 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-nationaux-napoleoniens.org/index.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_653
+
+:SW_653 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ot-marchiennes.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_592
+
+:SW_592 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.tourisme-martres-tolosane.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_208
+
+:SW_208 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://ecomusee.groix.free.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_389
+
+:SW_389 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.imarabe.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_258
+
+:SW_258 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-theatre-forain.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_439
+
+:SW_439 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.bry94.fr/bry/71.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_257
+
+:SW_257 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.vendome.eu/intro/1p1e-421-musee-vendome.html-vendome.html ou www.musees.regioncentre.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_187
+
+:SW_187 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee.ville.morlaix.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_524
+
+:SW_524 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-adriendubouche.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_893
+
+:SW_893 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.antibes-juanslespins.com/fr/culture/musees" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1055
+
+:SW_1055 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_887
+
+:SW_887 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-gassendi.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_146
+
+:SW_146 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cg58.fr - Site musées de Bourgogne" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_813
+
+:SW_813 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.familistere.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_738
+
+:SW_738 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville : www.ville-lehavre.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_284
+
+:SW_284 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.parc-montagnedereims.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_109
+
+:SW_109 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://museedart.clermont-ferrand.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_502
+
+:SW_502 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museum.agropolis.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_61
+
+:SW_61 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville : www.bordeaux.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_878
+
+:SW_878 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.chauvigny-patrimoine.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_885
+
+:SW_885 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.maison-des-sciences.org/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_264
+
+:SW_264 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.montargis.fr/musee.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_207
+
+:SW_207 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedecarnac.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_567
+
+:SW_567 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.sesta.fr ou www.ariege.com/chateaufoix/index.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_962
+
+:SW_962 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville www.salon-de-provence.org - www.visitsalondeprovence.com/fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_862
+
+:SW_862 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-marine.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_34
+
+:SW_34 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-mulhouse.fr/musee-historique/collections.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_537
+
+:SW_537 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.tourisme-montmedy.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_355
+
+:SW_355 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cognacq-jay.paris.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_770
+
+:SW_770 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.saint-nazaire-tourisme.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_596
+
+:SW_596 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://asptuit.free.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_147
+
+:SW_147 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cg58.fr ou www.musees-bourgogne.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_595
+
+:SW_595 rdf:type owl:NamedIndividual ;
+
+    :aURL "En projet" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_543
+
+:SW_543 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site du conseil général - www.cg57.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_106
+
+:SW_106 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mairie-le-puy-en-velay.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1007
+
+:SW_1007 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ostelleriedeperouges.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1032
+
+:SW_1032 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museelacdepaladru.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_618
+
+:SW_618 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mpehl.org et www.musees-midi-pyrenees.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_242
+
+:SW_242 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.cc-pays-de-richelieu.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_457
+
+:SW_457 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.rambolitrain.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_564
+
+:SW_564 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.zananas-martinique.com/martinique-patrimoine/maison-de-la-canne.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_400
+
+:SW_400 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museeguimet.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_432
+
+:SW_432 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-renaissance.fr ou www.musee-château-ecouen.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_393
+
+:SW_393 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museefm.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_525
+
+:SW_525 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museebal.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_270
+
+:SW_270 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.culture.gouv.fr/champagne-ardenne/2culture/musee_france/musee_mouzon.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_30
+
+:SW_30 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de la ville ou www.tourisme68.asso.fr/musees/fr/mus12.1.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_215
+
+:SW_215 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville : www.ville-bourges.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_480
+
+:SW_480 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.nimes.fr/index.php?id=283" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_51
+
+:SW_51 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.perigueux-maap.fr/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_139
+
+:SW_139 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cg58.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_479
+
+:SW_479 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.nimes.fr/index.php?id=280" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_253
+
+:SW_253 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-blois.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_799
+
+:SW_799 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ile-noirmoutier.com/html/activites" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_736
+
+:SW_736 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-malraux.ville-lehavre.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_548
+
+:SW_548 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.la-mine.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1063
+
+:SW_1063 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site du conseil général" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_562
+
+:SW_562 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cg972.fr/mdap" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_186
+
+:SW_186 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.port-musee.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_866
+
+:SW_866 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-saintes.fr ou www.alienor.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_915
+
+:SW_915 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.nice.fr/mairie_nice_131.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_436
+
+:SW_436 rdf:type owl:NamedIndividual ;
+
+    :aURL "/www.ville-montmorency.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_573
+
+:SW_573 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.decazeville.fr ou www.musees-midi-pyrenees.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_782
+
+:SW_782 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.chateau-saumur.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_823
+
+:SW_823 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.annuaire-mairie.fr/musee-de-la-ceramique-architecturale.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_401
+
+:SW_401 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.arts-et-metiers.net" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_639
+
+:SW_639 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville - www.ville-denain.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_23
+
+:SW_23 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-wissembourg.webmuseo.com ou www.ville-wissembourg.eu" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_260
+
+:SW_260 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.chateauneuf-sur-loire.com ou www.musees-centre.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_236
+
+:SW_236 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.argentomagus.com ou www.argentomagus.cc-argenton.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_759
+
+:SW_759 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-de-blain.fr/accueil2.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_833
+
+:SW_833 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-noyon.fr/Le-musee-Jean-Calvin.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_107
+
+:SW_107 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-retournac.fr/musee/francais/indexfr.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1024
+
+:SW_1024 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville - www.chamonix.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_972
+
+:SW_972 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville de Toulon" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1016
+
+:SW_1016 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museediois.wix.com/musee" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_754
+
+:SW_754 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site des musées de la région ou www.rouen.fr/corneille ou www.rouen-histoire.com/Corneille/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_903
+
+:SW_903 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museebonnard.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_263
+
+:SW_263 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.meung-sur-loire.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_605
+
+:SW_605 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mairie-cahors.fr/musee" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_230
+
+:SW_230 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://chemiserie.cc-argenton.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_40
+
+:SW_40 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.neuf-brisach.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_24
+
+:SW_24 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-woerth.webmuseo.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_354
+
+:SW_354 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-picasso.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_569
+
+:SW_569 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.grotte-masdazil.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_429
+
+:SW_429 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museehistoirevivante.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_119
+
+:SW_119 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.volvic-tourisme.com/HTML/sites/site_musee.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_446
+
+:SW_446 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.macval.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_539
+
+:SW_539 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.cg55.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_259
+
+:SW_259 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de la région ou www.patrimoine-beaugency.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_922
+
+:SW_922 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.vallauris-golfe-juan.fr/musee.php" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1043
+
+:SW_1043 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-hector-berlioz.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_102
+
+:SW_102 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.auvergne-centrefrance.com/geotouring/musees/detail/mus154.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_625
+
+:SW_625 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la région : www.musees-midi-pyrenees.fr/musees/musee-du-pays-rabastinois" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_627
+
+:SW_627 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museecalbet.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_92
+
+:SW_92 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.bassin-gannat.com/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1061
+
+:SW_1061 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.vieux-saint-etienne.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_413
+
+:SW_413 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.châteaudefontainebleau.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_955
+
+:SW_955 rdf:type owl:NamedIndividual ;
+
+    :aURL "www-martigues.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_218
+
+:SW_218 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de la ville www.ville-bourges.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1031
+
+:SW_1031 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.bourgoinjallieu.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_402
+
+:SW_402 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.centrepompidou.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_964
+
+:SW_964 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://museum.cg05.fr ou site du conseil général" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_37
+
+:SW_37 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.edf.electropolis.mulhouse.museum" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_96
+
+:SW_96 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de la ville www.ville-neris-les-bains.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_62
+
+:SW_62 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville -  www.mairie-bordeaux.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_642
+
+:SW_642 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.muséesdunkerque.wb.st" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_437
+
+:SW_437 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville - www.ville-Pontoise.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_364
+
+:SW_364 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-delacroix.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_958
+
+:SW_958 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ateliermuseal.net" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_352
+
+:SW_352 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.chassenature.org/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_301
+
+:SW_301 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site du pays de Montbeliard" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_71
+
+:SW_71 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site du parc - www.parc-landes-de-gascogne.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_638
+
+:SW_638 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://museedeflandre.lenord.fr/fr/Accueil.aspx" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_331
+
+:SW_331 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedelaphoto.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_223
+
+:SW_223 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de la ville : www.ville-chartres.fr ou http://perso.wanadoo.fr/samnel.museum/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_937
+
+:SW_937 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ouestprovence.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_709
+
+:SW_709 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la Mairie : www.mairie-valognes.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_750
+
+:SW_750 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.rouen.fr/medecine ou http://www3.chu-rouen.fr/Internet/connaitreCHU/culture/musee_flaubert" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_285
+
+:SW_285 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museelevergeur.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_396
+
+:SW_396 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.guimet.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_603
+
+:SW_603 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.tarbes.fr/gp/Le-musee-Massey/107/0" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_526
+
+:SW_526 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-rochechouart.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_202
+
+:SW_202 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville - www.ville-saint-malo.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_108
+
+:SW_108 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.arlanc.com/musee_dentelle.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_241
+
+:SW_241 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la région centre ou http://www.lochesentouraine.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_607
+
+:SW_607 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.tourisme-figeac.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_459
+
+:SW_459 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-mauricedenis.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_497
+
+:SW_497 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cc-picsaintloup.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_438
+
+:SW_438 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-pontoise.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_950
+
+:SW_950 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mairie-marseille.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_145
+
+:SW_145 rdf:type owl:NamedIndividual ;
+
+    :aURL "Conseil général" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_217
+
+:SW_217 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museum-bourges.net" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_590
+
+:SW_590 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.aurignacien.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_553
+
+:SW_553 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.tourauxpuces.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_789
+
+:SW_789 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.multimedia.com/ccstidelaval" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_192
+
+:SW_192 rdf:type owl:NamedIndividual ;
+
+    :aURL "http//musee-beauxarts.quimper.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_855
+
+:SW_855 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.museum-larochelle.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_636
+
+:SW_636 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.villedecambrai.com/culture/musee.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_125
+
+:SW_125 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-vix.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_517
+
+:SW_517 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museepresidentjchirac.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_282
+
+:SW_282 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.ville-thiers.fr/Musee-de-la-Coutellerie" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_522
+
+:SW_522 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-gueret.fr/culture/musee.php" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_873
+
+:SW_873 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.alienor.org ou www.cc-parthenay.fr/Patrimoine/Musee/presentation/present-2.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_379
+
+:SW_379 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-orsay.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_155
+
+:SW_155 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.institut-charolais.com (site de l'office du tourisme)" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_523
+
+:SW_523 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museechateauponsac.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_136
+
+:SW_136 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site des musées de Bourgogne ou www.saulieu.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_141
+
+:SW_141 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mairie-cosnessurloire.fr/Services/MUSEEE/ACCUEIL.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_780
+
+:SW_780 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-julesdesbois.fr ou www.damm49.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_835
+
+:SW_835 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-senlis.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_273
+
+:SW_273 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de l'OT" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_161
+
+:SW_161 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.marcigny.fr/musee-de-la-tour-du-moulin - http://tourdumoulin.blogspot.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_803
+
+:SW_803 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.lessablesdolonne.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_350
+
+:SW_350 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-suresnes.fr/indexfin.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_566
+
+:SW_566 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.saintpierre-martinique.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_89
+
+:SW_89 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://musee.ville-pau.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_715
+
+:SW_715 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ecomuseeduperche.free.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_48
+
+:SW_48 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-prehistoire-eyzies.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_795
+
+:SW_795 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.espacefaience.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_423
+
+:SW_423 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville : www.mairie-provins.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_320
+
+:SW_320 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site des musées de la région" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_255
+
+:SW_255 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedesologne.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_549
+
+:SW_549 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.phalsbourg.fr/La_culture__les_loisirs/Le_Musee" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_612
+
+:SW_612 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.vayrac.fr/uxellodunum.php?lg=fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_99
+
+:SW_99 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.aurillac.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_468
+
+:SW_468 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.limoux.fr/fr/tourisme/musee_petiet.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_585
+
+:SW_585 rdf:type owl:NamedIndividual ;
+
+    :aURL "site du département : www.gers-gascogne.com ou site de la mairie" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_254
+
+:SW_254 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.maisondelamagie.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_404
+
+:SW_404 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.monnaiedeparis.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_211
+
+:SW_211 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.lorient.com/musee" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_646
+
+:SW_646 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-gravelines.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_802
+
+:SW_802 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.historial.vendee.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_810
+
+:SW_810 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museefrancoamericain.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_261
+
+:SW_261 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.ifrance.com/chatillon-coligny" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_21
+
+:SW_21 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-oberlin.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_330
+
+:SW_330 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mcg973.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_128
+
+:SW_128 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-magnin.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_388
+
+:SW_388 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.citechaillot.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_289
+
+:SW_289 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-fesch.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_105
+
+:SW_105 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site des amis de Lavaudieu - www.abbayedelavaudieu.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_267
+
+:SW_267 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.maisondeladernierecartouche.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_279
+
+:SW_279 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.culture.gouv.fr/champagne-ardenne/2culture/musee_france/musee_bourbonne.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_235
+
+:SW_235 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la région centre" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_271
+
+:SW_271 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.chateau-fort-sedan.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_189
+
+:SW_189 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.parc-naturel-armorique.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1050
+
+:SW_1050 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://alicetaverne-musee.pagesperso-orange.fr/accueil/accueil.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_895
+
+:SW_895 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://musee-de-biot.fr/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_909
+
+:SW_909 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.nice.fr/mairie_nice_1489.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_296
+
+:SW_296 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.citadelle.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_367
+
+:SW_367 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.balzac.paris.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_755
+
+:SW_755 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-horlogerie-aliermont.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_591
+
+:SW_591 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.luchon.com ou www.mairies-luchon.fr -www.musees-midi-pyrenees.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_134
+
+:SW_134 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.montbard.com/ ou Site des musées de Bourgogne" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_226
+
+:SW_226 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees.regioncentre.fr - site de la région" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_386
+
+:SW_386 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.histoire-immigration.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_74
+
+:SW_74 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museesamadet.landes.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_719
+
+:SW_719 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.evreux.fr (site de la ville) ou www.musees-haute-normandie.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_723
+
+:SW_723 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-pont-audemer.fr ou www.musee-haute-normandie.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_661
+
+:SW_661 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musenor.org ou www.arras.fr/culture/musee-des-beaux-arts.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_382
+
+:SW_382 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.petitpalais.paris.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_976
+
+:SW_976 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-marine.fr/site/fr/toulon_presentation" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_540
+
+:SW_540 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-de-la-biere.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_463
+
+:SW_463 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-lambinet.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_36
+
+:SW_36 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.culturespaces.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_530
+
+:SW_530 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.chateauluneville.cg54.fr - http://www.chateaudeslumieres.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1068
+
+:SW_1068 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.imprimerie.lyon.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_531
+
+:SW_531 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.man.uhp-nancy.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_445
+
+:SW_445 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mairie-villiers94.com/francais/vie_quoti/vie_quot_culture7.php" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_180
+
+:SW_180 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-meheut.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_111
+
+:SW_111 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museelecoq.clermont-ferrand.fr ou www.clermont-ferrand.fr/-Museum-Henri-Lecoq-.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_890
+
+:SW_890 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.moustiers.eu/?Le-musee#" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_181
+
+:SW_181 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mairie-saint-brieuc.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_440
+
+:SW_440 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-resistance.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_47
+
+:SW_47 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site des musées aquitains ou http://www.perigord-dronne-belle.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_609
+
+:SW_609 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.ville-luzech.fr/musee-archeologique-armand-vire-luzech" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_774
+
+:SW_774 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.angers.fr/mba" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_959
+
+:SW_959 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees.mediterannee.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_4
+
+:SW_4 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-haguenau.fr/pages/culture/musee.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_666
+
+:SW_666 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.desvresmuseum.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_377
+
+:SW_377 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.zadkine.paris.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_888
+
+:SW_888 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-forcalquier.fr/service-culturel.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_917
+
+:SW_917 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville de Nice" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_229
+
+:SW_229 rdf:type owl:NamedIndividual ;
+
+    :aURL "mairie.perso.fr/sainville/index.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_777
+
+:SW_777 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.damm49.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_717
+
+:SW_717 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville - www.ville-bernay27.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_442
+
+:SW_442 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.saint-maur.com/musee/musee.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_120
+
+:SW_120 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.alesia.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_197
+
+:SW_197 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de l'office du tourisme" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_704
+
+:SW_704 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museechristiandior.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_213
+
+:SW_213 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.resistance-bretonne.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_889
+
+:SW_889 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-de-salagon.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_967
+
+:SW_967 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.dracenie.com rubrique musées" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_896
+
+:SW_896 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cagnes-tourisme.com/renoir ou www.chez.com/renoir/cagnes.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_205
+
+:SW_205 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de l'office du tourisme" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_978
+
+:SW_978 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museum-toulon.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1042
+
+:SW_1042 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-hebert.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_353
+
+:SW_353 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mahj.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_118
+
+:SW_118 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-thiers.fr/Musee-de-la-Coutellerie" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_94
+
+:SW_94 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cncs.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_961
+
+:SW_961 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.visitsalondeprovence.com/fr/quatre_musees.php#guidemusees" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_417
+
+:SW_417 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedelagrandeguerre.eu" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_954
+
+:SW_954 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.mucem.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_981
+
+:SW_981 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-calvet.org & www.musee-lapidaire.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_924
+
+:SW_924 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mairie-aixenprovence.fr/Musee-du-Vieil-Aix" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_411
+
+:SW_411 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.braillenet.org/louis_braille/maisnat.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_693
+
+:SW_693 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.paleospace-villers.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_495
+
+:SW_495 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://museearcheo.montpellier-agglo.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_318
+
+:SW_318 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-du-jouet.fr et Site des musées de la région" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_452
+
+:SW_452 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://museeaubertmaule.free.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_31
+
+:SW_31 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-kaysersberg.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_765
+
+:SW_765 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.château-nantes.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_957
+
+:SW_957 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.paullafran.free.fr (site des Amis du musée)" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_152
+
+:SW_152 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museeniepce.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_716
+
+:SW_716 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cg61.fr/musee-art-religieux-sees.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_910
+
+:SW_910 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.arts-asiatiques.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_623
+
+:SW_623 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-midi-pyrenees.fr/musees/musee-du-pays-vaurais" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1079
+
+:SW_1079 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-malartre.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_75
+
+:SW_75 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-sanguinet.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_58
+
+:SW_58 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mairie-bordeaux.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_403
+
+:SW_403 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.valdegrace.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_934
+
+:SW_934 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://samle.legion-etrangere.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_742
+
+:SW_742 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.chateaudemartainville.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_725
+
+:SW_725 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville : www.ville-barentin.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_668
+
+:SW_668 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville : www.ville-harnes.fr/Patrimoine" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1022
+
+:SW_1022 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.prehistoire-vercors.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_115
+
+:SW_115 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-murol.net/Musee.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_821
+
+:SW_821 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://museedelathierache.jimdo.com ou www.evasion-aisne.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1047
+
+:SW_1047 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-vienne.fr  - Site du patrimoine de l'Isère" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_664
+
+:SW_664 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-boulogne-sur-mer.fr/château-musee ou  musenor" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_374
+
+:SW_374 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-bouchard.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_378
+
+:SW_378 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.galliera.paris.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_997
+
+:SW_997 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cg974.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_995
+
+:SW_995 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.vaucluse.fr/pages/page/num/1037/lan/1" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_149
+
+:SW_149 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.autun.com ou Site des musées de Bourgogne" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_691
+
+:SW_691 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.trouville.fr/pages/03maville/culture.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_831
+
+:SW_831 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-archerie-valois.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_174
+
+:SW_174 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.aventureduson.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_730
+
+:SW_730 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.la-crea.fr ou Site des musées de la région" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_148
+
+:SW_148 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.autun.com/tourisme/museum.php" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_839
+
+:SW_839 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.somme.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_635
+
+:SW_635 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://museedostrevant.canalblog.com/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_811
+
+:SW_811 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-jean-de-la-fontaine.fr ou www.la-fontaine-ch-thierry.net" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_614
+
+:SW_614 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://musee-cayla.tarn.fr ou www.littérature-lieux.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_870
+
+:SW_870 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.alienor.org ou www.deux-sevres.com/culture/musee-bougon/index.asp" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_209
+
+:SW_209 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.inzinzac-lochrist.fr/Ecomusee-des-Forges.6681.0.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_83
+
+:SW_83 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museebonnat.bayonne.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_731
+
+:SW_731 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.louis-philippe.eu - www.ville-eu.fr ou site des musées de la région" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_988
+
+:SW_988 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.cucuron-luberon.com/musee-marc-deydier/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_162
+
+:SW_162 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-hieron.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_875
+
+:SW_875 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-thouars.fr/vah/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_733
+
+:SW_733 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.fecamp.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_222
+
+:SW_222 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-chartres.fr ou www.musees.regioncentre.fr/defaulttest.php" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_990
+
+:SW_990 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.vaucluse.fr/pages/page/num/519/lan/1" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_97
+
+:SW_97 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de la ville www.ville-souvigny.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_244
+
+:SW_244 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedusavigneen.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_856
+
+:SW_856 rdf:type owl:NamedIndividual ;
+
+    :aURL " www.alienor.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_634
+
+:SW_634 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-bergues.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1054
+
+:SW_1054 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville : www.feurs.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_966
+
+:SW_966 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville - www.ville-draguignan.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_825
+
+:SW_825 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://museeraymondpillon.overblog.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_3
+
+:SW_3 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-pays-hanau.webmuseo.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_594
+
+:SW_594 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mairiestgaudens.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_931
+
+:SW_931 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museonarlaten.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_336
+
+:SW_336 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.boulognebillancourt.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_172
+
+:SW_172 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museeavallonnais.fr- site des musées de Bourgogne - site ville" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_460
+
+:SW_460 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-antiquitesnationales.fr -www.musee-archeologienationale.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_113
+
+:SW_113 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.livradois.com/marsac/penitent/index.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_6
+
+:SW_6 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.chartreuse-molsheim.info" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_806
+
+:SW_806 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site Vendée-Tourisme" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_649
+
+:SW_649 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.chm-lewarde.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_182
+
+:SW_182 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-brest.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_707
+
+:SW_707 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.stlo.unicaen.fr/museebarbeydaurevilly" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_493
+
+:SW_493 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.bouzigues.fr/musee/francais/bouzigues-musee.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_762
+
+:SW_762 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.vignoble-nantais.eu" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_248
+
+:SW_248 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museecompagnonnage.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_953
+
+:SW_953 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville - www.mairie-marseille.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_503
+
+:SW_503 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-murviel-les-montpellier.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_652
+
+:SW_652 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.pba-lille.fr ou site de la mairie http://www.mairie-lille.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_142
+
+:SW_142 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de l'OTSI ou des musées de Bourgogne" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_617
+
+:SW_617 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://savieuxcordes.canalblog.com ou http://musee-charles-portal.asso-web.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_683
+
+:SW_683 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-honfleur.fr - www.ville-honfleur.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1012
+
+:SW_1012 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.orgnac.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_974
+
+:SW_974 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.saint-tropez.tv/html/annonciade.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_601
+
+:SW_601 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.chateaufort-lourdes.fr ou site de la ville - http://www.lourdes-visite.com/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_604
+
+:SW_604 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.pechmerle.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_979
+
+:SW_979 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site OT de la ville" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_408
+
+:SW_408 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.chelles.fr/Culture/Musee-Alfred-Bonno" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_194
+
+:SW_194 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ecomusee-monts-arree.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_385
+
+:SW_385 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.aquarium-portedoree.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_471
+
+:SW_471 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://culture.legrandnarbonne.com/421-amphoralis.html - www.amphoralis.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_651
+
+:SW_651 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mairie-lille.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_892
+
+:SW_892 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.antibes-juanlespins.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_926
+
+:SW_926 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museegranet-aixenprovence.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_447
+
+:SW_447 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mairie-conflans-sainte-honorine.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_935
+
+:SW_935 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville - www.cassis.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_920
+
+:SW_920 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedesmerveilles.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_338
+
+:SW_338 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.fondationarp.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_514
+
+:SW_514 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedecerdagne.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_332
+
+:SW_332 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.brunoy.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_912
+
+:SW_912 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville : www.nice.fr/Culture/Musees-et-expositions/Musee-d-Art-Naif" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_412
+
+:SW_412 rdf:type owl:NamedIndividual ;
+
+    :aURL "dgs@crecylachapelle.eu" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_574
+
+:SW_574 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.tourisme-espalion.fr - http://www.museeduscaphandre.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_499
+
+:SW_499 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.montpellier-agglo.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_450
+
+:SW_450 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.port-royal-des-champs.eu" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_565
+
+:SW_565 rdf:type owl:NamedIndividual ;
+
+    :aURL "/www.cr-martinique.fr/francais/institution/serv-region/musees/ecomusee.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_29
+
+:SW_29 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-bartholdi.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_971
+
+:SW_971 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville : http://www.ville-hyeres.fr/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_508
+
+:SW_508 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-ceret.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_735
+
+:SW_735 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville -  www.ville-lehavre.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1053
+
+:SW_1053 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museeduchapeau.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_225
+
+:SW_225 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-chateaudun.fr ou www.musees.regioncentre.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_90
+
+:SW_90 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-chateau-pau.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_791
+
+:SW_791 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://geocities.com/musardoise" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_626
+
+:SW_626 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.auvillar.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_672
+
+:SW_672 rdf:type owl:NamedIndividual ;
+
+    :aURL "m3.dnsalias.com/sandelin - http://www.musenor.com/Les-Musees/Saint-Omer-Musee-Henri-Dupuis" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_373
+
+:SW_373 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedemontmartre.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_26
+
+:SW_26 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://histoire-cernay.perso.sfr.fr ou www.musees-alsace.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_430
+
+:SW_430 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-saint-denis.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_165
+
+:SW_165 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-bourgogne.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_79
+
+:SW_79 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site des musées aquitains ou www.nerac.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_391
+
+:SW_391 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-rodin.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_232
+
+:SW_232 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-chateauroux.fr - Site de la ville" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_10
+
+:SW_10 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.louise weiss.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_798
+
+:SW_798 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ecomusee-ledaviaud.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1057
+
+:SW_1057 rdf:type owl:NamedIndividual ;
+
+    :aURL "L'Ecomusée du Roannais a récupéré les collections du musée" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_313
+
+:SW_313 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.juramusees.com/musee-vigne-vin/musee-vigne-vin.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_274
+
+:SW_274 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-nogent-sur-seine.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_711
+
+:SW_711 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.paysdalencontourisme.com/musee-beaux-arts-dentelle-alencon_784_fr.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_245
+
+:SW_245 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cc-veron.fr/ecomusee" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_660
+
+:SW_660 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-lam.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_629
+
+:SW_629 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.montauban.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_841
+
+:SW_841 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.amiens.fr/musees" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_637
+
+:SW_637 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.liturgiecatholique.fr/Musee-diocesain-d-Art-Sacre-du.html ou http://archives.cathocambrai.com/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_724
+
+:SW_724 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de la ville www.ville-vernon27.fr/musee/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1048
+
+:SW_1048 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-revolution-francaise.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_786
+
+:SW_786 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-robert-tatin.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_303
+
+:SW_303 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.maisons-comtoises.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_418
+
+:SW_418 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.servicehistorique.sga.defense.gouv.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_812
+
+:SW_812 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.ville-chauny.fr/culture/musee_presentation.php" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_78
+
+:SW_78 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cg47.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_781
+
+:SW_781 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mvvanjou.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_824
+
+:SW_824 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.oise.fr/culture-et-vie-locale/le-musee-departemental/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1021
+
+:SW_1021 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-valence.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_695
+
+:SW_695 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.parc-naturel-normandie-maine.fr ou www.musees-basse-normandie.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_441
+
+:SW_441 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ecomusee-valdebievre.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1037
+
+:SW_1037 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site du patrimoine de l'Isère - www.patrimoine-en-isere.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1013
+
+:SW_1013 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.serrieres-ardeche.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_163
+
+:SW_163 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ecomusee-de-la-bresse.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_673
+
+:SW_673 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville www.ville-saintpolsurternoise.fr/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_606
+
+:SW_606 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-champollion.fr et site de la ville" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_193
+
+:SW_193 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cg29.fr/culture/mdb.htm - Site en cours" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_610
+
+:SW_610 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museeduquercy.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_547
+
+:SW_547 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee.desminesdefer-lorraine.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_818
+
+:SW_818 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museeantoinelecuyer.fr/ ou www.mquentindelatour.com/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_383
+
+:SW_383 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.paris.fr/portail/Culture/Portal.lut?page_id=5851" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_59
+
+:SW_59 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.capc-bordeaux.fr ou www.bordeaux.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_351
+
+:SW_351 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-moyenage.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1034
+
+:SW_1034 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedegrenoble.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_792
+
+:SW_792 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville - www.ville-lemans.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_808
+
+:SW_808 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville : www.sainthilairederiez.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_190
+
+:SW_190 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.pontaven.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_884
+
+:SW_884 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-poitiers.org ou www.alienor.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_703
+
+:SW_703 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-granville.fr (site de la ville)" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_963
+
+:SW_963 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://museum.cg05.fr/3939-musee-du-vieux-queyras.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_973
+
+:SW_973 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-saintraphael.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_5
+
+:SW_5 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-haguenau.fr/pages/culture/musee.htm ou www.museumspass.com/dn_musees-haguenau/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_368
+
+:SW_368 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.louvre.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1023
+
+:SW_1023 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://musees.agglo-annecy.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_864
+
+:SW_864 rdf:type owl:NamedIndividual ;
+
+    :aURL "www. ou www.saint-martin-de-re.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_272
+
+:SW_272 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-brienne-le-château.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_851
+
+:SW_851 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.maisons.parc-marais-poitevin.fr/maison-de-la-mytiliculture/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1040
+
+:SW_1040 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee.larina-hieres.com ou Site du patrimoine en isère - www.patrimoine-en-isere.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_381
+
+:SW_381 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cite-musique.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_645
+
+:SW_645 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ecomusee-avesnois.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_196
+
+:SW_196 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ecomusee-broceliande.com  - http://ecomuseepaysmontfort.free.fr/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_921
+
+:SW_921 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-nationaux-alpesmaritimes.fr ou www.musee-picasso-vallauris.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_395
+
+:SW_395 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mam.paris.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_344
+
+:SW_344 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.chateau-malmaison.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_328
+
+:SW_328 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.sjperse.org/museesjp.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_952
+
+:SW_952 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museum-marseille.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_848
+
+:SW_848 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cnbdi.fr ou www.alienor.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_744
+
+:SW_744 rdf:type owl:NamedIndividual ;
+
+    :aURL "site des musées de la région" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_794
+
+:SW_794 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de la ville - www.ville-lemans.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_975
+
+:SW_975 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.solliesville.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_676
+
+:SW_676 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la mairie - www.mairie-bayeux.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1066
+
+:SW_1066 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.beaujeu.com/musee.html ou http://www.culture-beaujolais.fr/?Musee-des-Arts-et-des-Traditions" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_269
+
+:SW_269 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mairie-charlevillemezieres.fr/htm/culture/rimbaud.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_321
+
+:SW_321 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.juramusees.fr/1/musee/musees/beaux_arts/musee_max_claudet_salins_les_bains.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_392
+
+:SW_392 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-moreau.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_756
+
+:SW_756 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museevictorhugo.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1090
+
+:SW_1090 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.arche-musee-et-archive.net" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_168
+
+:SW_168 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.verdunsurledoubs.fr rubrique culture ou www.ecomusee-de-la-bresse.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_406
+
+:SW_406 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedelaposte.fr ou www.laposte.fr/musee" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_819
+
+:SW_819 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-soissons.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_183
+
+:SW_183 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mairie-brest.fr/musee_marine.htm ou www.musee-marine.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_993
+
+:SW_993 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville - www.mairie-sault-84.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_472
+
+:SW_472 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.sigean.fr - site de la ville" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_992
+
+:SW_992 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.theatre-antique.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_529
+
+:SW_529 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://http//www.mairie-longwy.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_191
+
+:SW_191 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museebigouden.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_179
+
+:SW_179 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mairie-dinan.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_262
+
+:SW_262 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.château-gien.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_482
+
+:SW_482 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.carreartmusee.nimes.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_991
+
+:SW_991 rdf:type owl:NamedIndividual ;
+
+    :aURL "Sie de la ville : http://www.mazan.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_577
+
+:SW_577 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-fenaille.com ou www.grandrodez.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_764
+
+:SW_764 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedesbeauxarts.nantes.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1029
+
+:SW_1029 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee.alpedhuez.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_949
+
+:SW_949 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.marseille.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_697
+
+:SW_697 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville - www.ville-cherbourg.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_362
+
+:SW_362 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://crypte.paris.fr/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_510
+
+:SW_510 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mairie-perpignan.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_329
+
+:SW_329 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cg971.fr/musees/schoelcher/index_schoecher.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_277
+
+:SW_277 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-troyes.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1086
+
+:SW_1086 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site du conseil général ou www.musee-savoisien.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_679
+
+:SW_679 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.caen.fr/museedelaposte/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1015
+
+:SW_1015 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-tournon.com/chateau-musee" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_76
+
+:SW_76 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.agen.fr/musee" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_173
+
+:SW_173 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site des musées de Bourgogne ou www.noyers-sur-serein.com/artnaif.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_860
+
+:SW_860 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la ville - www.ville-rochefort.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_52
+
+:SW_52 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.vesunna.fr ou http://www.perigueux-vesunna.fr/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1028
+
+:SW_1028 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museedallevard@wordpress.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_940
+
+:SW_940 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://fondationlouisjou.pagesperso-orange.fr/LouisJou.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_593
+
+:SW_593 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.musees-midi-pyrenees.fr/musees/musee-archeologique-departemental" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_349
+
+:SW_349 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.sevresciteceramique.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_160
+
+:SW_160 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.macon.fr/Culture-sports-et-loisirs/Les-Musees-de-Macon" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_943
+
+:SW_943 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mairie-marseille.fr/vivre/culture/musees/cantini.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_582
+
+:SW_582 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.villefranchederouergue.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_527
+
+:SW_527 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.grand-nancy.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_589
+
+:SW_589 rdf:type owl:NamedIndividual ;
+
+    :aURL "site du département : www.gers-gascogne.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_45
+
+:SW_45 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.bergerac.fr/EspCulture/sitetabac/index.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_814
+
+:SW_814 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://perso.wanadoo.fr/lafere/musee.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_746
+
+:SW_746 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.corderievallois.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_556
+
+:SW_556 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site du conseil général - www.vosges.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_797
+
+:SW_797 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.centre-minier-vendee.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1071
+
+:SW_1071 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-des-tissus.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1088
+
+:SW_1088 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la mairie" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_25
+
+:SW_25 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-biesheim.fr/museegr.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_372
+
+:SW_372 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-henner.fr ou www.henner-intime.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_228
+
+:SW_228 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-nogent-le-rotrou.fr/html/art_cult/musee/collec.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_41
+
+:SW_41 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site des musées d'Alsace" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_398
+
+:SW_398 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.bourdelle.paris.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_588
+
+:SW_588 rdf:type owl:NamedIndividual ;
+
+    :aURL "Site de la région : www.musees-midi-pyrenees.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_314
+
+:SW_314 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.tourisme.champagnole.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_390
+
+:SW_390 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.lesartsdecoratifs.fr/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_687
+
+:SW_687 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.lintercom.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_462
+
+:SW_462 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.coubertin.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_597
+
+:SW_597 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museum.toulouse.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_690
+
+:SW_690 rdf:type owl:NamedIndividual ;
+
+    :aURL "museetilly.free.fr ou www.tilly1944.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_883
+
+:SW_883 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees.poitiers.org ou www.alienor.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_965
+
+:SW_965 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museebrignolais.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_956
+
+:SW_956 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.saint-cannat.fr/institutions-culturelles/espace-suffren.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_434
+
+:SW_434 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://musee.ville-isle-adam.fr/index.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_124
+
+:SW_124 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-bourgogne.org ou www.beaune.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_93
+
+:SW_93 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-montlucon.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_130
+
+:SW_130 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://mba.dijon.fr ou www.ville-dijon.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_250
+
+:SW_250 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.tours.fr ou www.musees-regioncentre.fr ou www.framemuseums.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1039
+
+:SW_1039 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-dauphinois.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_484
+
+:SW_484 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.nimes.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1059
+
+:SW_1059 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mam-st-etienne.fr/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_916
+
+:SW_916 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.mamac-nice.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_688
+
+:SW_688 rdf:type owl:NamedIndividual ;
+
+    :aURL "site de la mairie - http://www.mairie-orbec.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_568
+
+:SW_568 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.paysdolmes.org - www.geocities.com/amtpc2000" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_843
+
+:SW_843 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.historial.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1064
+
+:SW_1064 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ecomusee-usson-en-forez.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_27
+
+:SW_27 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ac-strasbourg.fr/microsites/MHN_COLMAR" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_509
+
+:SW_509 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.collioure.net/musee.asp" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_579
+
+:SW_579 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.grand-rodez.com ou http://musee-soulages.grand-rodez.com/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_453
+
+:SW_453 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.maisonzola-museedreyfus.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_366
+
+:SW_366 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.invalides.org" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_85
+
+:SW_85 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musee-basque.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_464
+
+:SW_464 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.chateauversailles.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_728
+
+:SW_728 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.pnr-seine-normande.com ou site de la région" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_766
+
+:SW_766 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.loire-atlantique.fr ou www.cg44.fr ou www.culture.cg44.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_1038
+
+:SW_1038 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.museum-grenoble.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_796
+
+:SW_796 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.payscalaisien.com/65/fr/pays-calaisien/musee.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_628
+
+:SW_628 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.montauban.com/" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_33
+
+:SW_33 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.musees-mulhouse.fr/musee-des-beaux-arts/collections.html" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_239
+
+:SW_239 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-descartes.fr/pratique/f_pratique.htm" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_532
+
+:SW_532 rdf:type owl:NamedIndividual ;
+
+    :aURL "http://www.nancy.fr/transver/coord.htm#muslor - Site du Grand Nancy" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_325
+
+:SW_325 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.musees-franchecomte.com" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_689
+
+:SW_689 rdf:type owl:NamedIndividual ;
+
+    :aURL "site du conseil général - www.cg14.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_454
+
+:SW_454 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.ville-montfort-l-amaury.fr" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_265
+
+:SW_265 rdf:type owl:NamedIndividual ;
+
+    :aURL "Région : www.musees.regioncentre.fr ou  www.orleans.fr (rubrique culture/musee)" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#SW_987
+
+:SW_987 rdf:type owl:NamedIndividual ;
+
+    :aURL "www.cavaillon.org" .
+
+
+

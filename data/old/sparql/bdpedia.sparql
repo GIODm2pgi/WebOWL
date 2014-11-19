@@ -1,0 +1,15 @@
+PREFIX db-owl: <http://dbpedia.org/ontology/>
+PREFIX db-res: <http://fr.dbpedia.org/resource/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+	select ?r where {
+		?r db-owl:country db-res:France .
+		?r rdf:type db-owl:AdministrativeRegion .
+	}
+
+prefix db-owl: <http://dbpedia.org/ontology/>
+prefix db-res: <http://fr.dbpedia.org/resource/>
+select ?r where {
+    ?r <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AdministrativeRegion> .
+    ?r <http://www.w3.org/1999/02/22-rdf-syntax-ns#label> "Rhône-Alpes"@fr .
+}

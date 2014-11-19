@@ -1,0 +1,1254 @@
+###  http://www.musee.com/ontologies/musee.owl#R_1
+
+:R_1 rdf:type owl:NamedIndividual ;
+
+          :aNom "CORSE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_1
+
+:D_1 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_1 ;
+
+    :aNomDépartement "CORSE DU SUD" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_2
+
+:D_2 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_1 ;
+
+    :aNomDépartement "HAUTE-CORSE" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_2
+
+:R_2 rdf:type owl:NamedIndividual ;
+
+          :aNom "NORMANDIE (HAUTE)" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_3
+
+:D_3 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_2 ;
+
+    :aNomDépartement "EURE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_4
+
+:D_4 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_2 ;
+
+    :aNomDépartement "SEINE-MARITIME" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_3
+
+:R_3 rdf:type owl:NamedIndividual ;
+
+          :aNom "CENTRE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_5
+
+:D_5 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_3 ;
+
+    :aNomDépartement "CHER" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_6
+
+:D_6 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_3 ;
+
+    :aNomDépartement "EURE ET LOIR" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_7
+
+:D_7 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_3 ;
+
+    :aNomDépartement "INDRE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_8
+
+:D_8 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_3 ;
+
+    :aNomDépartement "INDRE ET LOIRE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_9
+
+:D_9 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_3 ;
+
+    :aNomDépartement "LOIR ET CHER" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_10
+
+:D_10 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_3 ;
+
+    :aNomDépartement "LOIRET" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_4
+
+:R_4 rdf:type owl:NamedIndividual ;
+
+          :aNom "ST PIERRE ET MIQUELON" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_11
+
+:D_11 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_4 ;
+
+    :aNomDépartement "SAINT-PIERRE ET MIQUELON" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_5
+
+:R_5 rdf:type owl:NamedIndividual ;
+
+          :aNom "ILE-DE-FRANCE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_12
+
+:D_12 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_5 ;
+
+    :aNomDépartement "ESSONNE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_13
+
+:D_13 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_5 ;
+
+    :aNomDépartement "HAUTS DE SEINE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_14
+
+:D_14 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_5 ;
+
+    :aNomDépartement "PARIS" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_15
+
+:D_15 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_5 ;
+
+    :aNomDépartement "SEINE ET MARNE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_16
+
+:D_16 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_5 ;
+
+    :aNomDépartement "SEINE SAINT-DENIS" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_17
+
+:D_17 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_5 ;
+
+    :aNomDépartement "VAL D'OISE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_18
+
+:D_18 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_5 ;
+
+    :aNomDépartement "VAL DE MARNE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_19
+
+:D_19 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_5 ;
+
+    :aNomDépartement "YVELINES" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_6
+
+:R_6 rdf:type owl:NamedIndividual ;
+
+          :aNom "NORD-PAS-DE-CALAIS" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_20
+
+:D_20 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_6 ;
+
+    :aNomDépartement "NORD" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_21
+
+:D_21 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_6 ;
+
+    :aNomDépartement "PAS-DE-CALAIS" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_7
+
+:R_7 rdf:type owl:NamedIndividual ;
+
+          :aNom "LANGUEDOC-ROUSSILLON" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_22
+
+:D_22 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_7 ;
+
+    :aNomDépartement "AUDE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_23
+
+:D_23 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_7 ;
+
+    :aNomDépartement "GARD" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_24
+
+:D_24 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_7 ;
+
+    :aNomDépartement "HERAULT" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_25
+
+:D_25 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_7 ;
+
+    :aNomDépartement "LOZERE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_26
+
+:D_26 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_7 ;
+
+    :aNomDépartement "PYRENEES ORIENTALES" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_8
+
+:R_8 rdf:type owl:NamedIndividual ;
+
+          :aNom "LORRAINE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_27
+
+:D_27 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_8 ;
+
+    :aNomDépartement "MEURTHE ET MOSELLE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_28
+
+:D_28 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_8 ;
+
+    :aNomDépartement "MEUSE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_29
+
+:D_29 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_8 ;
+
+    :aNomDépartement "MOSELLE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_30
+
+:D_30 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_8 ;
+
+    :aNomDépartement "VOSGES" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_9
+
+:R_9 rdf:type owl:NamedIndividual ;
+
+          :aNom "MARTINIQUE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_31
+
+:D_31 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_9 ;
+
+    :aNomDépartement "MARTINIQUE" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_10
+
+:R_10 rdf:type owl:NamedIndividual ;
+
+          :aNom "ALSACE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_32
+
+:D_32 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_10 ;
+
+    :aNomDépartement "BAS-RHIN" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_33
+
+:D_33 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_10 ;
+
+    :aNomDépartement "HAUT-RHIN" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_11
+
+:R_11 rdf:type owl:NamedIndividual ;
+
+          :aNom "GUYANE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_34
+
+:D_34 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_11 ;
+
+    :aNomDépartement "GUYANE" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_12
+
+:R_12 rdf:type owl:NamedIndividual ;
+
+          :aNom "PICARDIE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_35
+
+:D_35 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_12 ;
+
+    :aNomDépartement "AISNE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_36
+
+:D_36 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_12 ;
+
+    :aNomDépartement "OISE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_37
+
+:D_37 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_12 ;
+
+    :aNomDépartement "SOMME" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_13
+
+:R_13 rdf:type owl:NamedIndividual ;
+
+          :aNom "POITOU-CHARENTES" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_38
+
+:D_38 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_13 ;
+
+    :aNomDépartement "CHARENTE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_39
+
+:D_39 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_13 ;
+
+    :aNomDépartement "CHARENTE-MARITIME" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_40
+
+:D_40 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_13 ;
+
+    :aNomDépartement "DEUX-SEVRES" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_41
+
+:D_41 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_13 ;
+
+    :aNomDépartement "VIENNE" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_14
+
+:R_14 rdf:type owl:NamedIndividual ;
+
+          :aNom "AQUITAINE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_42
+
+:D_42 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_14 ;
+
+    :aNomDépartement "DORDOGNE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_43
+
+:D_43 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_14 ;
+
+    :aNomDépartement "GIRONDE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_44
+
+:D_44 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_14 ;
+
+    :aNomDépartement "LANDES" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_45
+
+:D_45 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_14 ;
+
+    :aNomDépartement "LOT ET GARONNE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_46
+
+:D_46 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_14 ;
+
+    :aNomDépartement "PYRÉNÉES ATLANTIQUES" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_15
+
+:R_15 rdf:type owl:NamedIndividual ;
+
+          :aNom "LIMOUSIN" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_47
+
+:D_47 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_15 ;
+
+    :aNomDépartement "CORREZE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_48
+
+:D_48 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_15 ;
+
+    :aNomDépartement "CREUSE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_49
+
+:D_49 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_15 ;
+
+    :aNomDépartement "HAUTE VIENNE" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_16
+
+:R_16 rdf:type owl:NamedIndividual ;
+
+          :aNom "BOURGOGNE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_50
+
+:D_50 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_16 ;
+
+    :aNomDépartement "CÔTE D’OR" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_51
+
+:D_51 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_16 ;
+
+    :aNomDépartement "NIÈVRE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_52
+
+:D_52 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_16 ;
+
+    :aNomDépartement "SAONE ET LOIRE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_53
+
+:D_53 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_16 ;
+
+    :aNomDépartement "YONNE" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_17
+
+:R_17 rdf:type owl:NamedIndividual ;
+
+          :aNom "BRETAGNE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_54
+
+:D_54 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_17 ;
+
+    :aNomDépartement "COTES D'ARMOR" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_55
+
+:D_55 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_17 ;
+
+    :aNomDépartement "FINISTERE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_56
+
+:D_56 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_17 ;
+
+    :aNomDépartement "ILE ET VILAINE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_57
+
+:D_57 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_17 ;
+
+    :aNomDépartement "MORBIHAN" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_18
+
+:R_18 rdf:type owl:NamedIndividual ;
+
+          :aNom "NORMANDIE (BASSE)" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_58
+
+:D_58 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_18 ;
+
+    :aNomDépartement "CALVADOS" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_59
+
+:D_59 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_18 ;
+
+    :aNomDépartement "MANCHE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_60
+
+:D_60 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_18 ;
+
+    :aNomDépartement "ORNE" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_19
+
+:R_19 rdf:type owl:NamedIndividual ;
+
+          :aNom "AUVERGNE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_61
+
+:D_61 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_19 ;
+
+    :aNomDépartement "ALLIER" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_62
+
+:D_62 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_19 ;
+
+    :aNomDépartement "CANTAL" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_63
+
+:D_63 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_19 ;
+
+    :aNomDépartement "HAUTE-LOIRE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_64
+
+:D_64 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_19 ;
+
+    :aNomDépartement "PUY DE DÔME" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_20
+
+:R_20 rdf:type owl:NamedIndividual ;
+
+          :aNom "CHAMPAGNE-ARDENNE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_65
+
+:D_65 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_20 ;
+
+    :aNomDépartement "ARDENNES" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_66
+
+:D_66 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_20 ;
+
+    :aNomDépartement "AUBE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_67
+
+:D_67 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_20 ;
+
+    :aNomDépartement "HAUTE-MARNE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_68
+
+:D_68 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_20 ;
+
+    :aNomDépartement "MARNE" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_21
+
+:R_21 rdf:type owl:NamedIndividual ;
+
+          :aNom "MIDI-PYRENEES" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_69
+
+:D_69 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_21 ;
+
+    :aNomDépartement "ARIEGE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_70
+
+:D_70 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_21 ;
+
+    :aNomDépartement "AVEYRON" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_71
+
+:D_71 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_21 ;
+
+    :aNomDépartement "GERS" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_72
+
+:D_72 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_21 ;
+
+    :aNomDépartement "HAUTE-GARONNE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_73
+
+:D_73 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_21 ;
+
+    :aNomDépartement "HAUTES-PYRENEES" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_74
+
+:D_74 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_21 ;
+
+    :aNomDépartement "LOT" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_75
+
+:D_75 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_21 ;
+
+    :aNomDépartement "TARN" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_76
+
+:D_76 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_21 ;
+
+    :aNomDépartement "TARN-ET-GARONNE" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_22
+
+:R_22 rdf:type owl:NamedIndividual ;
+
+          :aNom "PAYS-DE-LA-LOIRE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_77
+
+:D_77 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_22 ;
+
+    :aNomDépartement "LOIRE-ATLANTIQUE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_78
+
+:D_78 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_22 ;
+
+    :aNomDépartement "MAINE-ET-LOIRE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_79
+
+:D_79 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_22 ;
+
+    :aNomDépartement "MAYENNE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_80
+
+:D_80 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_22 ;
+
+    :aNomDépartement "SARTHE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_81
+
+:D_81 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_22 ;
+
+    :aNomDépartement "VENDEE" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_23
+
+:R_23 rdf:type owl:NamedIndividual ;
+
+          :aNom "PROVENCE-ALPES-CÔTE D'AZUR" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_82
+
+:D_82 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_23 ;
+
+    :aNomDépartement "ALPES DE HAUTE PROVENCE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_83
+
+:D_83 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_23 ;
+
+    :aNomDépartement "ALPES-MARITIMES" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_84
+
+:D_84 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_23 ;
+
+    :aNomDépartement "BOUCHES DU RHONE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_85
+
+:D_85 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_23 ;
+
+    :aNomDépartement "HAUTES-ALPES" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_86
+
+:D_86 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_23 ;
+
+    :aNomDépartement "VAR" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_87
+
+:D_87 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_23 ;
+
+    :aNomDépartement "VAUCLUSE" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_24
+
+:R_24 rdf:type owl:NamedIndividual ;
+
+          :aNom "RHÔNE-ALPES" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_88
+
+:D_88 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_24 ;
+
+    :aNomDépartement "AIN" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_89
+
+:D_89 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_24 ;
+
+    :aNomDépartement "ARDECHE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_90
+
+:D_90 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_24 ;
+
+    :aNomDépartement "DRÔME" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_91
+
+:D_91 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_24 ;
+
+    :aNomDépartement "HAUTE-SAVOIE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_92
+
+:D_92 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_24 ;
+
+    :aNomDépartement "ISERE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_93
+
+:D_93 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_24 ;
+
+    :aNomDépartement "LOIRE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_94
+
+:D_94 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_24 ;
+
+    :aNomDépartement "RHÔNE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_95
+
+:D_95 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_24 ;
+
+    :aNomDépartement "SAVOIE" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_25
+
+:R_25 rdf:type owl:NamedIndividual ;
+
+          :aNom "REUNION" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_96
+
+:D_96 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_25 ;
+
+    :aNomDépartement "REUNION" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_26
+
+:R_26 rdf:type owl:NamedIndividual ;
+
+          :aNom "GUADELOUPE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_97
+
+:D_97 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_26 ;
+
+    :aNomDépartement "GUADELOUPE" .
+
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#R_27
+
+:R_27 rdf:type owl:NamedIndividual ;
+
+          :aNom "FRANCHE-COMTE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_98
+
+:D_98 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_27 ;
+
+    :aNomDépartement "DOUBS" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_99
+
+:D_99 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_27 ;
+
+    :aNomDépartement "HAUTE-SAONE" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_100
+
+:D_100 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_27 ;
+
+    :aNomDépartement "JURA" .
+
+
+
+###  http://www.musee.com/ontologies/musee.owl#D_101
+
+:D_101 rdf:type owl:NamedIndividual ;
+
+    :estDépartementDeLaRégion :R_27 ;
+
+    :aNomDépartement "TERRITOIRE DE BELFORT" .
+
+
+
+
+
