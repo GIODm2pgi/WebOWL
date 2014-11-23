@@ -3,6 +3,8 @@ package jena;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 
+import jena.RequêteMusée.Result;
+
 import com.hp.hpl.jena.rdf.model.Model;
 import com.hp.hpl.jena.rdf.model.ModelFactory;
 
@@ -12,10 +14,8 @@ public class TrouverUnMusée {
 		Model model = ModelFactory.createDefaultModel();
 		model.read(new FileInputStream("data/musee.owl"), null, "TURTLE");
 		
-		String region = "Rhône-Alpes";
-		
-		for (String s : RequêteMusée.trouverMuseeParRegion(model, region))
-			System.out.println(s);	
+		for (Result s : RequêteMusée.processQueryApp(null, null, null, null, null))
+			System.out.println(s.nom);	
 	}
 	
 }
