@@ -1,10 +1,102 @@
-<!DOCTYPE html>
-<html>
+﻿<!doctype html>
+<html lang="fr">
 <head>
-<meta charset="UTF-8">
-<title>Insert title here</title>
+<meta charset="utf-8">
+<title>TrouverUnMusée.fr - Trouver un musée en France par thème,
+	par région, par date, etc ...</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
-<h1>HERE</h1>
+	<div id="header">
+		<h1 class="display-none">TrouverUnMusée.fr - Trouver un musée en
+			France par thème, par région, par date, etc ...</h1>
+	</div>
+	<div id="corps">
+		<div id="corps-top"></div>
+		<div id="corps-center">
+			<h2>
+				<img src="img/museum.png" title="icône musée" width="22px" /><span
+					class="titre">Bienvenue sur TrouverUnMusée.fr</span>
+			</h2>
+			<p class="description">Cette application vous permet de trouver
+				des musées en France Métropolitaine et dans les DOM-TOM en
+				fournissant divers critères de recherches comme une région, un
+				département, une ville, ou encore un thème ou une date d'ouverture
+				particulière.</p>
+
+			<h2>
+				<img src="img/museum.png" title="icône musée" width="22px" /><span
+					class="titre">Recherche de musées</span>
+			</h2>
+
+			<!--<div id="form-main">
+				<div id="form-div">
+					<form class="form" id="form1">
+
+						<p>
+							<input name="region" type="text" class="feedback-input loc1"
+								placeholder="Région" />
+						</p>
+
+						<p>
+							<input name="dep" type="text" class="feedback-input loc2"
+								placeholder="Département" />
+						</p>
+
+						<p>
+							<input name="ville" type="text" class="feedback-input loc3"
+								placeholder="Ville" />
+						</p>
+
+						<p>
+							<input name="theme" type="text" class="feedback-input theme"
+								placeholder="Thème" id="theme" />
+						</p>
+
+						<p>
+							<input name="date" type="date" class="feedback-input date"
+								placeholder="Date" id="date" />
+						</p>
+
+						<div class="submit">
+							<input type="submit" value="Recherche" id="button-blue" />
+							<div class="ease"></div>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>-->
+
+			<form action="ServletSearch">
+				<p>
+					<img class="img-search" width="32px" src="img/region.png" title="Région"/>
+					<label for="region">Région : </label><input type="text" id="region" name="region" placeholder="Région" />
+				</p>
+				<p>
+					<img class="img-search" width="32px" src="img/departement.png" title="Département"/>
+					<label for="dep">Département : </label><input type="text" id="dep" name="dep"
+						placeholder="Département" />
+				</p>
+				<p>
+					<img class="img-search img-opacity" width="32px" src="img/ville.png" title="Ville"/>
+					<label for="ville">Ville : </label><input type="text" id="ville" name="ville" placeholder="Ville" />
+				</p>
+				<p>
+					<img class="img-search img-opacity" width="32px" src="img/theme.png" title="Thème"/>
+					<label for="theme">Thème : </label><input type="text" id="theme" name="theme" placeholder="Thème" />
+				</p>
+				<p>
+					<img class="img-search img-opacity" width="32px" src="img/date.png" title="Date"/>
+					<label for="date">Date : </label><input type="date" id="date" name="date" placeholder="Date" />
+				</p>
+				<p>
+					<input class="button" type="submit" value="Recherche" />
+				</p>
+			</form>
+
+		</div>
+
+		<div id="corps-bot"></div>
+	</div>
 </body>
 </html>
