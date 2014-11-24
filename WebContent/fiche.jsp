@@ -17,7 +17,7 @@
 		<div id="corps-top"></div>
 		<div id="corps-center">
 			<h2>
-				<img src="img/museum.png" title="icône musée" width="22px" />
+				<a href="index.html" title="Retour recherche"><img src="img/museum.png" title="icône musée" width="22px" /></a>
 				<span class="titre">Fiche du musée</span>
 			</h2>
 			

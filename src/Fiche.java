@@ -31,6 +31,11 @@ public class Fiche extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		String id = request.getParameter("id");
+		
+		if (id == null){
+			response.sendRedirect("index.html");
+			return;
+		}
 
 		RequêteMusée.setModel(getServletContext().getResourceAsStream("/data/musee.owl"));
 
@@ -39,7 +44,7 @@ public class Fiche extends HttpServlet {
 		String table = "<table><tr><td>" + r.ID + "</td></tr></table>";	
 
 		request.setAttribute("table", table);
-		request.getRequestDispatcher("recherche.jsp").forward(request, response);
+		request.getRequestDispatcher("fiche.jsp").forward(request, response);
 	}
 
 	/**

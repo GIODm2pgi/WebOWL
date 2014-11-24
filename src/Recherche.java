@@ -36,6 +36,11 @@ public class Recherche extends HttpServlet {
 		String theme = request.getParameter("theme");
 		String date = request.getParameter("date");
 
+		if (region == null || dep == null || ville == null || theme == null || date == null){
+			response.sendRedirect("index.html");
+			return;
+		}
+		
 		RequêteMusée.setModel(getServletContext().getResourceAsStream("/data/musee.owl"));
 
 		List<Result> listResult = RequêteMusée.processQueryApp(region, dep, ville, theme, date);
