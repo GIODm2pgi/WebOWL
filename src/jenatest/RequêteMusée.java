@@ -1,5 +1,7 @@
-package jena;
+package jenatest;
 
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
@@ -13,6 +15,7 @@ import com.hp.hpl.jena.query.QuerySolution;
 import com.hp.hpl.jena.query.ResultSet;
 import com.hp.hpl.jena.rdf.model.Model;
 import com.hp.hpl.jena.rdf.model.ModelFactory;
+import com.hp.hpl.jena.rdf.model.RDFNode;
 
 public class RequêteMusée {
 
@@ -22,9 +25,16 @@ public class RequêteMusée {
 			this.nom = n;
 			this.ID = i;
 		}
+		
+		public Result (String n, String i, String ho){
+			this.nom = n;
+			this.ID = i;
+			this.ho = ho;
+		}
 
 		public String nom;
 		public String ID;
+		public String ho;
 
 	}
 
@@ -93,4 +103,45 @@ public class RequêteMusée {
 		return toReturn;
 	}
 	
+	
+	
+	// TODO :
+	public static Result getFicheMusée (String id){
+		String queryString = prefix 
+				+ "SELECT ?n {"
+				+ "m:" + id + " m:aNomMusée ?n ."
+				+ "}";
+		
+		System.out.println(queryString);
+		
+		Query query = QueryFactory.create(queryString);
+		ARQ.getContext().setTrue(ARQ.useSAX);        
+
+		QueryExecution qexec = QueryExecutionFactory.create(query, model);
+		ResultSet results = qexec.execSelect();
+
+		Result toReturn = new Result(null, id);
+
+		while (results.hasNext()) {
+			QuerySolution soln = results.nextSolution();
+			toReturn.nom = clean(soln.get("?n"));
+		}
+		qexec.close();
+		
+		return toReturn;
+	}
+	
+	public static void main(String[] args) throws FileNotFoundException {
+		Model model = ModelFactory.createDefaultModel();
+		model.read(new FileInputStream("data/musee.owl"), null, "TURTLE");
+		
+		for (Result s : RequêteMusée.processQueryApp(null, null, null, null, null))
+			System.out.println(s.nom);	
+	}
+	
+	private static String clean (RDFNode s){
+		if (s == null)
+			return null;
+		return s.toString().split("\\^\\^")[0];
+	}
 }

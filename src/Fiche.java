@@ -9,6 +9,9 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import jenatest.RequêteMusée;
+import jenatest.RequêteMusée.Result;
+
 /**
  * Servlet implementation class Fiche
  */
@@ -30,7 +33,11 @@ public class Fiche extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		response.setContentType("text/html");
 
-		//String id = request.getParameter("id");
+		String id = request.getParameter("id");
+		
+		RequêteMusée.setModel(getServletContext().getResourceAsStream("/data/musee.owl"));
+		
+		Result r = RequêteMusée.getFicheMusée(id);
 
 		PrintWriter out = response.getWriter();
 		out.println("<!doctype html>\n" + 
@@ -54,6 +61,7 @@ public class Fiche extends HttpServlet {
 				"					class=\"titre\">Fiche du musée</span>\n" + 
 				"			</h2>\n" + 
 				"			\n" +
+				"			<p>" + r.ID + "</p>\n" +
 				"		</div>\n" + 
 				"\n" + 
 				"		<div id=\"corps-bot\"></div>\n" + 

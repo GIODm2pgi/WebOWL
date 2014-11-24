@@ -10,8 +10,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import jena.RequêteMusée;
-import jena.RequêteMusée.Result;
+import jenatest.RequêteMusée;
+import jenatest.RequêteMusée.Result;
 
 /**
  * Servlet implementation class ServletSearch
