@@ -1,4 +1,4 @@
-package jenatest;
+package jena;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

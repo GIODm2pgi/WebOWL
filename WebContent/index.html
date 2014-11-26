@@ -32,16 +32,16 @@
 			<form action="Recherche">
 				<p>
 					<img class="img-search" width="32px" src="img/region.png" title="Région"/>
-					<label for="region">Région : </label><input type="text" id="region" name="region" placeholder="Région" />
+					<label for="region">Région : </label><input oninput="javascript:maj_enable();" type="text" id="region" name="region" placeholder="Région" />
 				</p>
 				<p>
 					<img class="img-search" width="32px" src="img/departement.png" title="Département"/>
-					<label for="dep">Département : </label><input type="text" id="dep" name="dep"
+					<label for="dep">Département : </label><input oninput="javascript:maj_enable();" type="text" id="dep" name="dep"
 						placeholder="Département" />
 				</p>
 				<p>
 					<img class="img-search img-opacity" width="32px" src="img/ville.png" title="Ville"/>
-					<label for="ville">Ville : </label><input type="text" id="ville" name="ville" placeholder="Ville" />
+					<label for="ville">Ville : </label><input oninput="javascript:maj_enable();" type="text" id="ville" name="ville" placeholder="Ville" />
 				</p>
 				<p>
 					<img class="img-search img-opacity" width="32px" src="img/theme.png" title="Thème"/>
@@ -55,6 +55,28 @@
 					<input class="button" type="submit" value="Recherche" />
 				</p>
 			</form>
+			
+			<script>
+			function maj_enable() {				
+				if (document.getElementById('region').value.length > 0) {
+						document.getElementById('region').readOnly = false;
+						document.getElementById('dep').readOnly = true;
+						document.getElementById('ville').readOnly = true;
+					} else if (document.getElementById('dep').value.length > 0) {
+						document.getElementById('region').readOnly = true;
+						document.getElementById('dep').readOnly = false;
+						document.getElementById('ville').readOnly = true;
+					} else if (document.getElementById('ville').value.length > 0) {
+						document.getElementById('region').readOnly = true;
+						document.getElementById('dep').readOnly = true;
+						document.getElementById('ville').readOnly = false;
+					} else {
+						document.getElementById('region').readOnly = false;
+						document.getElementById('dep').readOnly = false;
+						document.getElementById('ville').readOnly = false;
+					}
+				}
+			</script>
 
 		</div>
 

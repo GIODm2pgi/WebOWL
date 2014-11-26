@@ -1,4 +1,4 @@
-package jenatest;
+package jena;
 
 import com.hp.hpl.jena.query.ARQ;
 import com.hp.hpl.jena.query.Query;
