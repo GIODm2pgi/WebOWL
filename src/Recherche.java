@@ -1,5 +1,6 @@
 
 
+
 import java.io.IOException;
 import java.util.List;
 
@@ -45,12 +46,7 @@ public class Recherche extends HttpServlet {
 
 		List<Result> listResult = RequêteMusée.processQueryApp(region, dep, ville, theme, date);
 
-		String table = "<table>";		
-		for (Result r : listResult)
-			table += "<tr><td><a href=\"Fiche?id="+r.ID+"\">"+r.nom+"</a></td>";
-		table += "</table>";
-
-        request.setAttribute("table", table);
+        request.setAttribute("result", listResult);
         request.getRequestDispatcher("recherche.jsp").forward(request, response);
 	}
 
