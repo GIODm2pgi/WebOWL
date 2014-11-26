@@ -69,11 +69,16 @@ public class RequêteMusée {
 		}
 
 		if (dep.length() > 0){
-			// TODO ...
+			queryString += "?a m:estAdresseDuMusée ?m ."
+					+ "?v m:estVilleDeLAdresse ?a ."
+					+ "?d m:estDépartementDeLaVille ?v ."
+					+ "?d m:aNomDépartement \"" + dep + "\"^^xsd:string .";
 		}
 
 		if (ville.length() > 0){
-			// TODO ...
+			queryString += "?a m:estAdresseDuMusée ?m ."
+					+ "?v m:estVilleDeLAdresse ?a ."
+					+ "?v m:aNomVille  \"" + ville + "\"^^xsd:string .";
 		}
 
 		if (theme.length() > 0){
