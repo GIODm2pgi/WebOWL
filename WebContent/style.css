@@ -92,6 +92,12 @@ input {
 	width: 200px;
 	display: inline-block;
 	padding: 5px;
+	border: 1px solid grey;
+}
+
+input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 1000px white inset;
+    border: 1px solid grey !important;
 }
 
 .img-search {
@@ -112,13 +118,26 @@ table {
 	display: block;
 	width: 900px;
 	margin: auto;
-	border: 1px solid #24170e;
 	margin-bottom: 10px;
 }
 
 td {
-	width: 900px;
+	width: 133px;
 	text-align: center;
+	font-size: 12px;
+}
+
+.td-nom {
+	font-size: 14px;
+	width: 501px;
+}
+
+tr {
+	width: 900px;
+	margin-bottom: 10px;
+	background: #F7D8BB;
+	display: block;
+	padding: 5px;
 }
 
 a {
@@ -127,4 +146,11 @@ a {
 
 a:hover {
 	color: #803215;
+}
+
+.note {
+	font-size: 12px;
+	padding-left: 50px;
+	padding-right: 50px;
+	text-align: justify;
 }

@@ -9,8 +9,9 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import jena.FicheMusée;
+import jena.MuséeOwl;
 import jena.RequêteMusée;
-import jena.RequêteMusée.Result;
 
 /**
  * Servlet implementation class Fiche
@@ -24,7 +25,6 @@ public class Fiche extends HttpServlet {
 	 */
 	public Fiche() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 	/**
@@ -38,11 +38,11 @@ public class Fiche extends HttpServlet {
 			return;
 		}
 
-		RequêteMusée.setModel(getServletContext().getResourceAsStream("/data/musee.owl"));
+		MuséeOwl.setModel(getServletContext().getResourceAsStream("/data/musee.owl"));
 
-		Result r = RequêteMusée.getFicheMusée(id);
+		FicheMusée r = RequêteMusée.getFicheMusée(id);
 
-		String table = "<table><tr><td>" + r.ID + "</td></tr></table>";	
+		String table = "<table><tr><td>" + r.getId() + "</td></tr></table>";	
 
 		request.setAttribute("table", table);
 		request.getRequestDispatcher("fiche.jsp").forward(request, response);
@@ -52,7 +52,7 @@ public class Fiche extends HttpServlet {
 	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		// TODO Auto-generated method stub
+		
 	}
 
 }

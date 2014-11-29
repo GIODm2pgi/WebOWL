@@ -18,26 +18,32 @@
 		<div id="corps-top"></div>
 		<div id="corps-center">
 			<h2>
-				<a href="index.html" title="Retour recherche"><img
+				<a href="index.jsp" title="Retour recherche"><img
 					src="img/museum.png" title="icône musée" width="22px" /></a> <span
 					class="titre">Liste des musées correspondants à votre
 					recherche</span>
 			</h2>
+			<table>
+				<c:choose>
+					<c:when test="${ result.isEmpty() }">
+						<tr>
+							<td>Aucun résultat</td>
+						</tr>
+					</c:when>
+					<c:otherwise>
 
-			<c:choose>
-				<c:when test="${ result == null }">
-				Aucun résultat
-			</c:when>
-				<c:otherwise>
-					<table>
-						<c:forEach items="result" var="res">
+						<c:forEach items="${result}" var="res">
 							<tr>
-								<td><a href="Fiche?id="+${res.ID}>${res.nom}</a></td>
+								<td class="td-nom"><a href="Fiche?id=" ${res.id}>${res.nm}</a>
+								</td>
+								<td>${res.nr}</td>
+								<td>${res.nd}</td>
+								<td>${res.nv}</td>
 							</tr>
 						</c:forEach>
-					</table>
-				</c:otherwise>
-			</c:choose>
+					</c:otherwise>
+				</c:choose>
+			</table>
 
 		</div>
 

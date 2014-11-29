@@ -10,8 +10,9 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import jena.LienMusée;
+import jena.MuséeOwl;
 import jena.RequêteMusée;
-import jena.RequêteMusée.Result;
 
 /**
  * Servlet implementation class ServletSearch
@@ -24,7 +25,7 @@ public class Recherche extends HttpServlet {
 	 * Default constructor. 
 	 */
 	public Recherche() {
-		// TODO Auto-generated constructor stub
+		super();
 	}
 
 	/**
@@ -35,26 +36,25 @@ public class Recherche extends HttpServlet {
 		String dep = request.getParameter("dep");
 		String ville = request.getParameter("ville");
 		String theme = request.getParameter("theme");
-		String date = request.getParameter("date");
 
-		if (region == null || dep == null || ville == null || theme == null || date == null){
+		if (region == null || dep == null || ville == null || theme == null){
 			response.sendRedirect("index.html");
 			return;
 		}
-		
-		RequêteMusée.setModel(getServletContext().getResourceAsStream("/data/musee.owl"));
 
-		List<Result> listResult = RequêteMusée.processQueryApp(region, dep, ville, theme, date);
+		MuséeOwl.setModel(getServletContext().getResourceAsStream("/data/musee.owl"));
 
-        request.setAttribute("result", listResult);
-        request.getRequestDispatcher("recherche.jsp").forward(request, response);
+		List<LienMusée> listResult = RequêteMusée.processQueryApp(region, dep, ville, theme);
+
+		request.setAttribute("result", listResult);
+		request.getRequestDispatcher("recherche.jsp").forward(request, response);
 	}
 
 	/**
 	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		// TODO Auto-generated method stub
+
 	}
 
 }
