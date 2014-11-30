@@ -45,7 +45,7 @@ public class RequêteMusée {
 
 	private static List<LienMusée> processQueryAppBis (String region, String dep, String ville, String theme){
 		String base = Utils.PREFIX 
-				+ "SELECT ?m ?nm ?nv ?nd ?nr {"
+				+ "SELECT ?m ?nm ?nv ?nd ?nr ?r {"
 				+ "?a m:estAdresseDuMusée ?m ."
 				+ "?v m:estVilleDeLAdresse ?a ."
 				+ "?v m:aNomVille ?nv ."
@@ -83,7 +83,7 @@ public class RequêteMusée {
 
 		while (results.hasNext()) {
 			QuerySolution soln = results.nextSolution();
-			LienMusée lm = new LienMusée(Utils.cd(soln.get("?m")), Utils.ct(soln.get("?nm")), Utils.ct(soln.get("?nr")), Utils.ct(soln.get("?nd")), Utils.ct(soln.get("?nv")));
+			LienMusée lm = new LienMusée(Utils.cd(soln.get("?m")), Utils.ct(soln.get("?nm")), Utils.cd(soln.get("?r")), Utils.ct(soln.get("?nr")), Utils.ct(soln.get("?nd")), Utils.ct(soln.get("?nv")));
 			toReturn.add(lm);
 		}
 		qexec.close();

@@ -52,7 +52,7 @@
 </script>
 </head>
 <body>
-	<div id="header">
+	<div id="header" onclick="window.location.href = 'index.jsp';">
 		<h1 class="display-none">TrouverUnMusée.fr - Trouver un musée en
 			France par thème, par région, par date, etc ...</h1>
 	</div>
@@ -105,7 +105,7 @@
 						placeholder="Thème" />
 				</p>
 				<p>
-					<input class="button" type="submit" value="Recherche" />
+					<input class="button-submit" type="submit" value="Recherche" />
 				</p>
 			</form>
 

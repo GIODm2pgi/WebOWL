@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+	pageEncoding="UTF-8"%>
 <!doctype html>
 <html lang="fr">
 <head>
@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-	<div id="header">
+	<div id="header" onclick="window.location.href = 'index.jsp';">
 		<h1 class="display-none">TrouverUnMusée.fr - Trouver un musée en
 			France par thème, par région, par date, etc ...</h1>
 	</div>
@@ -17,11 +17,16 @@
 		<div id="corps-top"></div>
 		<div id="corps-center">
 			<h2>
-				<a href="index.jsp" title="Retour recherche"><img src="img/museum.png" title="icône musée" width="22px" /></a>
-				<span class="titre">Fiche du musée</span>
+				<a href="index.jsp" title="Retour recherche"><img
+					src="img/museum.png" title="icône musée" width="22px" /></a> <span
+					class="titre">Fiche du musée</span>
 			</h2>
-			
-			<%= request.getAttribute("table") %>
+
+			<%=request.getAttribute("table")%>
+
+			<p class="btn-retour">
+				<a href=javascript:history.go(-1)>RETOUR</a>
+			</p>
 
 		</div>
 

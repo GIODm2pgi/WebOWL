@@ -3,27 +3,28 @@ package jena;
 public class LienMusée {
 
 	private String nm, nr, nd, nv;
-	private String id;
+	private String idm, idr;
 
 	@Override
 	public int hashCode() {
-		return Integer.parseInt(id.split("M_")[1]);
+		return Integer.parseInt(idm.split("M_")[1]);
 	}
 
 	@Override
 	public boolean equals(Object obj) {
 		if(obj instanceof LienMusée){
-			return ((LienMusée) obj).getId().equals(getId());
+			return ((LienMusée) obj).getIdm().equals(getIdm());
 		}
 		return false;
 	}
 
-	public LienMusée (String id, String nm, String nr, String nd, String nv) {
+	public LienMusée (String idm, String nm, String idr, String nr, String nd, String nv) {
 		this.nm = nm;
 		this.nr = nr;
 		this.nd = nd;
 		this.nv = nv;
-		this.id = id;
+		this.idm = idm;
+		this.idr = idr;
 	}
 
 	public String getNm() {
@@ -58,12 +59,20 @@ public class LienMusée {
 		this.nv = nv;
 	}
 
-	public String getId() {
-		return id;
+	public String getIdm() {
+		return idm;
 	}
 
-	public void setId(String id) {
-		this.id = id;
+	public void setIdm(String id) {
+		this.idm = id;
+	}
+
+	public String getIdr() {
+		return idr;
+	}
+
+	public void setIdr(String idr) {
+		this.idr = idr;
 	}
 
 }

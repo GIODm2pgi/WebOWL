@@ -10,7 +10,7 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-	<div id="header">
+	<div id="header" onclick="window.location.href = 'index.jsp';">
 		<h1 class="display-none">TrouverUnMusée.fr - Trouver un musée en
 			France par thème, par région, par date, etc ...</h1>
 	</div>
@@ -34,9 +34,8 @@
 
 						<c:forEach items="${result}" var="res">
 							<tr>
-								<td class="td-nom"><a href="Fiche?id=" ${res.id}>${res.nm}</a>
-								</td>
-								<td>${res.nr}</td>
+								<td class="td-nom"><a title="Voir la fiche du musée" href="Fiche?id=${res.idm}">${res.nm}</a></td>
+								<td><a title="Voir la fiche de la région" href="FicheRegion?name=${res.idr}">${res.nr}</a></td>
 								<td>${res.nd}</td>
 								<td>${res.nv}</td>
 							</tr>
@@ -44,6 +43,8 @@
 					</c:otherwise>
 				</c:choose>
 			</table>
+
+			<p class="btn-retour"><a href=javascript:history.go(-1)>RETOUR</a></p>
 
 		</div>
 

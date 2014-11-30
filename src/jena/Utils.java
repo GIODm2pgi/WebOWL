@@ -22,4 +22,10 @@ public class Utils {
 		return s.toString().split("#")[1];
 	}
 	
+	public static String ca (RDFNode s){
+		if (s == null)
+			return null;
+		return s.toString().split("@")[0];
+	}
+	
 }
