@@ -13,28 +13,28 @@ import com.hp.hpl.jena.query.ResultSet;
 
 public class RequêteMusée {
 
-	public static List<LienMusée> processQueryApp (String region, String dep, String ville, String theme){
+	public static List<LienMusée> processQueryApp (String region, String dep, String ville, String theme, String sort, String sort_sens){
 		if ((region + dep + ville).length() == 0)
-			return processQueryAppBis(null, null, null, theme);
+			return processQueryAppBis(null, null, null, theme, sort, sort_sens);
 
 		List<LienMusée> toReturn = new ArrayList<LienMusée>();
 
 		if (region.length() > 0){
-			List<LienMusée> toAdd = processQueryAppBis(region, null, null, theme);
+			List<LienMusée> toAdd = processQueryAppBis(region, null, null, theme, sort, sort_sens);
 			for (LienMusée lm : toAdd)
 				if (!toReturn.contains(lm))
 					toReturn.add(lm);
 		}
 
 		if (dep.length() > 0){
-			List<LienMusée> toAdd = processQueryAppBis(null,dep, null, theme);
+			List<LienMusée> toAdd = processQueryAppBis(null,dep, null, theme, sort, sort_sens);
 			for (LienMusée lm : toAdd)
 				if (!toReturn.contains(lm))
 					toReturn.add(lm);
 		}
 
 		if (ville.length() > 0){
-			List<LienMusée> toAdd = processQueryAppBis(null, null, ville, theme);
+			List<LienMusée> toAdd = processQueryAppBis(null, null, ville, theme, sort, sort_sens);
 			for (LienMusée lm : toAdd)
 				if (!toReturn.contains(lm))
 					toReturn.add(lm);
@@ -43,7 +43,7 @@ public class RequêteMusée {
 		return toReturn;
 	}
 
-	private static List<LienMusée> processQueryAppBis (String region, String dep, String ville, String theme){
+	private static List<LienMusée> processQueryAppBis (String region, String dep, String ville, String theme, String sort, String sort_sens){
 		String base = Utils.PREFIX 
 				+ "SELECT ?m ?nm ?nv ?nd ?nr ?r {"
 				+ "?a m:estAdresseDuMusée ?m ."
@@ -72,6 +72,12 @@ public class RequêteMusée {
 		}
 
 		queryString += "}";
+
+		if (sort != null && sort_sens != null && 
+				(sort.equals("nm") || sort.equals("nr") || sort.equals("nd") || sort.equals("nv")) && 
+				(sort_sens.equals("ASC") || sort_sens.equals("DESC"))){
+			queryString += "ORDER BY " + sort_sens + "(?" + sort + ")";
+		}
 
 		Query query = QueryFactory.create(queryString);
 		ARQ.getContext().setTrue(ARQ.useSAX);        

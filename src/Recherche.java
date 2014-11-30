@@ -44,8 +44,12 @@ public class Recherche extends HttpServlet {
 
 		MuséeOwl.setModel(getServletContext().getResourceAsStream("/data/musee.owl"));
 
-		List<LienMusée> listResult = RequêteMusée.processQueryApp(region, dep, ville, theme);
+		String sort = request.getParameter("sort");
+		String sort_sens = request.getParameter("sort_sens");
+		request.setAttribute("sort", sort);
+		request.setAttribute("sort_sens", sort_sens);
 
+		List<LienMusée> listResult = RequêteMusée.processQueryApp(region, dep, ville, theme, sort, sort_sens);
 		request.setAttribute("result", listResult);
 		request.getRequestDispatcher("recherche.jsp").forward(request, response);
 	}
