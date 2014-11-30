@@ -1,5 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+	pageEncoding="UTF-8"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <!doctype html>
 <html lang="fr">
 <head>
@@ -17,18 +18,46 @@
 		<div id="corps-top"></div>
 		<div id="corps-center">
 			<h2>
-				<a href="index.jsp" title="Retour recherche"><img src="img/museum.png" title="icône musée" width="22px" /></a>
-				<span class="titre">Fiche de la région (DBpedia)</span>
+				<a href="index.jsp" title="Retour recherche"><img
+					src="img/museum.png" title="icône musée" width="22px" /></a> <span
+					class="titre">Fiche de la région (DBpedia)</span>
 			</h2>
-			
-			<p class="description"><img class="paragraph-icon" src="img/resume.png" />${fiche.resume}</p>
-			<p class="description"><img class="info-icon" src="img/website.png" />Site web : <a href="${fiche.website}" >${fiche.website}</a></p>
-			<p class="description"><img class="info-icon" src="img/capital.png" />Préfecture : ${fiche.capital}</p>
-			<p class="description"><img class="info-icon" src="img/population.png" />Population : ${fiche.population} hab.</p>
-			<p class="description"><img class="info-icon" src="img/area.png" />Superficie : ${fiche.area} km²</p>
-			
-		<p class="btn-retour"><a href=javascript:history.go(-1)>RETOUR</a></p>	
-			
+
+			<c:choose>
+				<c:when test="${fiche.resume == null}">
+					<table>
+						<tr>
+							<td class="td-nom">Informations non disponibles pour cette
+								région.</td>
+						</tr>
+					</table>
+				</c:when>
+				<c:otherwise>
+					<p class="description">
+						<img class="paragraph-icon" src="img/resume.png" />${fiche.resume}</p>
+					<p class="description">
+						<img class="info-icon" src="img/website.png" />Site web : <a
+							href="${fiche.website}">${fiche.website}</a>
+					</p>
+					<p class="description">
+						<img class="info-icon" src="img/capital.png" />Préfecture :
+						${fiche.capital}
+					</p>
+					<p class="description">
+						<img class="info-icon" src="img/population.png" />Population :
+						${fiche.population} hab.
+					</p>
+					<p class="description">
+						<img class="info-icon" src="img/area.png" />Superficie :
+						${fiche.area} km²
+					</p>
+				</c:otherwise>
+			</c:choose>
+
+			<p class="btn-retour">
+				<a href=javascript:history.go(-1)>RETOUR</a>
+			</p>
+
 		</div>
 
 		<div id="corps-bot"></div>

@@ -74,6 +74,9 @@ public class RequêteDBpedia {
 		}
 		qexec.close();
 
+		if (nr.equals("Centre"))
+			return nr + " (région française)";
+		
 		return nr;
 	}
 
