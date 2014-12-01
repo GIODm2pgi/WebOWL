@@ -41,10 +41,7 @@ public class Fiche extends HttpServlet {
 		MuséeOwl.setModel(getServletContext().getResourceAsStream("/data/musee.owl"));
 
 		FicheMusée r = RequêteMusée.getFicheMusée(id);
-
-		String table = "<table><tr><td>" + r.getIdm() + "</td></tr></table>";	
-
-		request.setAttribute("table", table);
+		request.setAttribute("fiche", r);
 		request.getRequestDispatcher("fiche.jsp").forward(request, response);
 	}
 

@@ -97,11 +97,21 @@ public class RequêteMusée {
 		return toReturn;
 	}
 
-	// TODO :
 	public static FicheMusée getFicheMusée (String id){
 		String queryString = Utils.PREFIX 
-				+ "SELECT ?n {"
-				+ "m:" + id + " m:aNomMusée ?n ."
+				+ "SELECT ?NomMusee ?NomRue ?NomVille ?NomDepartement ?NomRegion ?NomTheme ?HoraireOuverture ?ReOuverture "
+				+ "?FermetureAnnuelle ?PeriodeNocturne ?SiteWeb {"
+				+ "m:" + id + " m:aNomMusée ?NomMusee ."
+				+ "OPTIONAL { m:" + id + " m:estMuséeDeLAdresse ?adresse . ?adresse m:aRue ?NomRue } ."
+				+ "OPTIONAL { ?adresse m:estAdresseDeLaVille ?ville  . ?ville m:aNomVille ?NomVille } ."
+				+ "OPTIONAL { ?ville m:estVilleDuDépartement ?departement  . ?departement m:aNomDépartement ?NomDepartement } ."
+				+ "OPTIONAL { ?departement m:estDépartementDeLaRégion ?region  . ?region m:aNomRégion ?NomRegion } ."
+				+ "OPTIONAL { m:" + id + " m:estMuséeDuThème ?theme . ?theme m:aNomThème ?NomTheme } ."
+				+ "OPTIONAL { m:" + id + " m:estMuséeDeHoraireOuverture ?houvert . ?houvert m:aHoraireOuverture ?HoraireOuverture } ."
+				+ "OPTIONAL { m:" + id + " m:estMuséeDeLaDateRéouverture ?rouvert . ?rouvert m:aPériodeRéouverture ?ReOuverture } ."
+				+ "OPTIONAL { m:" + id + " m:estMuséeDeLaFermetureAnnuelle ?fannuelle . ?fannuelle m:aPériodeFermeture ?FermetureAnnuelle } ."
+				+ "OPTIONAL { m:" + id + " m:estMuséeDeOuvertureNocture ?onocturne . ?onocturne m:aPériodeNocturne ?PeriodeNocturne } ."
+				+ "OPTIONAL { m:" + id + " m:estMuséeDuSiteWeb ?web . ?web m:aURL ?SiteWeb } ."
 				+ "}";
 
 		Query query = QueryFactory.create(queryString);
@@ -114,7 +124,17 @@ public class RequêteMusée {
 
 		while (results.hasNext()) {
 			QuerySolution soln = results.nextSolution();
-			toReturn.setNm(Utils.ct(soln.get("?nm")));
+			toReturn.setNm(Utils.ct(soln.get("?NomMusee")));
+			toReturn.setNv(Utils.ct(soln.get("?NomVille")));
+			toReturn.setNd(Utils.ct(soln.get("?NomDepartement")));
+			toReturn.setNr(Utils.ct(soln.get("?NomRegion")));
+			toReturn.setNru(Utils.ct(soln.get("?NomRue")));
+			toReturn.setNth(Utils.ct(soln.get("?NomTheme")));
+			toReturn.setHov(Utils.ct(soln.get("?HoraireOuverture")));
+			toReturn.setRov(Utils.ct(soln.get("?ReOuverture")));
+			toReturn.setFan(Utils.ct(soln.get("?FermetureAnnuelle")));
+			toReturn.setPno(Utils.ct(soln.get("?PeriodeNocturne")));
+			toReturn.setSwe(Utils.ct(soln.get("?SiteWeb")));
 		}
 		qexec.close();
 
