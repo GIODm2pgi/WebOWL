@@ -29,8 +29,7 @@
 		<%}%>
 		var availableTagsVilles = [];
 		<%for (int i = 0; i < StaticRDV.getVilles().size(); i++) {%>
-		availableTagsVilles[<%=i%>] = "<%=StaticRDV.getVilles().get(i)%>
-	";
+		availableTagsVilles[<%=i%>] = "<%=StaticRDV.getVilles().get(i)%>";
 <%}%>
 	$("#region").autocomplete(
 				{
