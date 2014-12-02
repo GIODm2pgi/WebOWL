@@ -31,7 +31,7 @@
 		<%for (int i = 0; i < StaticRDV.getVilles().size(); i++) {%>
 		availableTagsVilles[<%=i%>] = "<%=StaticRDV.getVilles().get(i)%>";
 		<%}%>
-	$("#region").autocomplete(
+		$("#region1").autocomplete(
 				{
 					source : function(request, response) {
 						var results = $.ui.autocomplete.filter(
@@ -39,7 +39,7 @@
 						response(results.slice(0, 10));
 					}
 				});
-		$("#dep").autocomplete(
+		$("#dep1").autocomplete(
 				{
 					source : function(request, response) {
 						var results = $.ui.autocomplete.filter(
@@ -47,7 +47,7 @@
 						response(results.slice(0, 10));
 					}
 				});
-		$("#ville").autocomplete(
+		$("#ville1").autocomplete(
 				{
 					source : function(request, response) {
 						var results = $.ui.autocomplete.filter(
@@ -94,21 +94,34 @@
 				</p>
 				<p>
 					<img class="img-search" width="32px" src="img/region.png"
-						title="Région" /> <label for="region">Région : </label><input
-						type="text" id="region" autocomplete="off" name="region"
-						placeholder="Région" />
+						title="Région" /> <label for="region1">Région : </label>
+					<div class="input_fields_wrap_region">
+						<button class="add_field_button_region">Add More Fields</button>
+						<div>
+							<input type="text" id="region1" name="region1" placeholder="Région" >
+						</div>
+					</div>
 				</p>
 				<p>
 					<img class="img-search" width="32px" src="img/departement.png"
-						title="Département" /> <label for="dep">Département : </label><input
-						type="text" id="dep" name="dep" autocomplete="off"
-						placeholder="Département" />
+						title="Département" /> <label for="dep1">Département : </label>
+					<div class="input_fields_wrap_dep">
+						<button class="add_field_button_dep">Add More Fields</button>
+						<div>
+							<input type="text" id="dep1" name="dep1" placeholder="Département" >
+						</div>
+					</div>
 				</p>
 				<p>
 					<img class="img-search img-opacity" width="32px"
-						src="img/ville.png" title="Ville" /> <label for="ville">Ville
-						: </label><input type="text" id="ville" autocomplete="off" name="ville"
-						placeholder="Ville" />
+						src="img/ville.png" title="Ville" /> <label for="ville1">Ville
+						: </label>
+					<div class="input_fields_wrap_ville">
+						<button class="add_field_button_ville">Add More Fields</button>
+						<div>
+							<input type="text" id="ville1" name="ville1" placeholder="Ville" >
+						</div>
+					</div>
 				</p>
 				<p>
 					<img class="img-search img-opacity" width="32px"
@@ -117,6 +130,12 @@
 						placeholder="Thème" />
 				</p>
 				<p>
+					<input type="hidden" id="compteurRegion" name="compteurRegion"
+						value="1" />
+					<input type="hidden" id="compteurDep" name="compteurDep"
+						value="1" />
+					<input type="hidden" id="compteurVille" name="compteurVille"
+						value="1" />
 					<input class="button-submit" type="submit" value="Recherche" />
 				</p>
 			</form>
@@ -125,5 +144,64 @@
 
 		<div id="corps-bot"></div>
 	</div>
+		<script>
+	// Région
+	$(document).ready(function() {
+	    var max_fields_region = 10;
+	    var wrapper_region = $(".input_fields_wrap_region");
+	    var add_button_region = $(".add_field_button_region");	   
+	    var r = 1;
+	    $(add_button_region).click(function(e){
+	        e.preventDefault();
+	        if(r < max_fields_region){
+	            r++;
+	            $(wrapper_region).append('<div><input type="text" id="region'+ r +'" placeholder="Région" name="region' + r +'"/><a href="#" class="remove_field_region">Remove</a></div>');
+	            $("#compteurRegion").val(r) ;
+	        }
+	    });
+	   
+	    $(wrapper_region).on("click",".remove_field_region", function(e){
+	        e.preventDefault(); $(this).parent('div').remove(); r--;
+	    })
+	});
+	// Département
+	$(document).ready(function() {
+	    var max_fields_dep = 10;
+	    var wrapper_dep = $(".input_fields_wrap_dep");
+	    var add_button_dep = $(".add_field_button_dep");	   
+	    var d = 1;
+	    $(add_button_dep).click(function(e){
+	        e.preventDefault();
+	        if(d < max_fields_dep){
+	            d++;
+	            $(wrapper_dep).append('<div><input type="text" id="dep'+ d +'" placeholder="Département" name="dep' + d +'"/><a href="#" class="remove_field_dep">Remove</a></div>');
+	            $("#compteurDep").val(d) ;
+	        }
+	    });
+	   
+	    $(wrapper_dep).on("click",".remove_field_dep", function(e){
+	        e.preventDefault(); $(this).parent('div').remove(); d--;
+	    })
+	});
+	// Ville
+	$(document).ready(function() {
+	    var max_fields_ville = 10;
+	    var wrapper_ville = $(".input_fields_wrap_ville");
+	    var add_button_ville = $(".add_field_button_ville");	   
+	    var v = 1;
+	    $(add_button_ville).click(function(e){
+	        e.preventDefault();
+	        if(v < max_fields_ville){
+	            v++;
+	            $(wrapper_ville).append('<div><input type="text" id="ville'+ v +'" placeholder="Ville" name="ville' + v +'"/><a href="#" class="remove_field_ville">Remove</a></div>');
+	            $("#compteurVille").val(v) ;
+	        }
+	    });
+	   
+	    $(wrapper_ville).on("click",".remove_field_ville", function(e){
+	        e.preventDefault(); $(this).parent('div').remove(); v--;
+	    })
+	});
+    </script>
 </body>
 </html>

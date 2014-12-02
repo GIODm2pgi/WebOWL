@@ -2,6 +2,7 @@
 
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.List;
 
 import javax.servlet.ServletException;
@@ -33,12 +34,12 @@ public class Recherche extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		String nom = request.getParameter("nom");
-		String region = request.getParameter("region");
-		String dep = request.getParameter("dep");
-		String ville = request.getParameter("ville");
+		List<String> regions = this.getParameters(request, "compteurRegion", "region");
+		List<String> deps = this.getParameters(request, "compteurDep", "dep");
+		List<String> villes = this.getParameters(request, "compteurVille", "ville");
 		String theme = request.getParameter("theme");
 
-		if (nom == null || region == null || dep == null || ville == null || theme == null){
+		if (nom == null || regions == null || deps == null || villes == null || theme == null){
 			response.sendRedirect("index.html");
 			return;
 		}
@@ -50,7 +51,7 @@ public class Recherche extends HttpServlet {
 		request.setAttribute("sort", sort);
 		request.setAttribute("sort_sens", sort_sens);
 
-		List<LienMusée> listResult = RequêteMusée.processQueryApp(nom, region, dep, ville, theme, sort, sort_sens);
+		List<LienMusée> listResult = RequêteMusée.processQueryApp(nom, regions, deps, villes, theme, sort, sort_sens);
 		request.setAttribute("result", listResult);
 		request.getRequestDispatcher("recherche.jsp").forward(request, response);
 	}
@@ -60,6 +61,21 @@ public class Recherche extends HttpServlet {
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
+	}
+	
+	List<String> getParameters(HttpServletRequest request, String compteur, String prefix){
+		if(request.getParameter(compteur) == null){
+			return null;
+		}
+		Integer cpt = new Integer(request.getParameter(compteur));
+		List<String> toReturn = new ArrayList<String>();
+		for(int i=1 ; i <= cpt ; i++){
+			String value = request.getParameter(prefix + i);
+			if(value != null){
+				toReturn.add(value);
+			}
+		}
+		return toReturn;
 	}
 
 }
