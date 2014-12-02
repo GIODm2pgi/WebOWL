@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
-<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <!doctype html>
 <html lang="fr">
 <head>
@@ -34,7 +34,10 @@
 				</c:when>
 				<c:otherwise>
 					<p class="description">
-						<img class="paragraph-icon" src="img/resume.png" />${fiche.resume}</p>
+						<img class="info-icon" src="img/label.png" />Nom : ${fiche.nom}
+					</p>
+					<p class="description">
+						<img class="paragraph-icon" src="img/resume.png" />Description : ${fiche.resume}</p>
 					<p class="description">
 						<img class="info-icon" src="img/website.png" />Site web : <a
 							href="${fiche.website}">${fiche.website}</a>

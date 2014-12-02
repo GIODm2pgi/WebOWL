@@ -26,15 +26,14 @@
 			<c:choose>
 				<c:when test="${fiche.nm != null}">
 					<p class="description">
-						<img class="paragraph-icon" src="img/museum.png" />Musée :
-						${fiche.nm}
+						<img class="info-icon" src="img/museum.png" />Nom : ${fiche.nm}
 					</p>
 				</c:when>
 			</c:choose>
 			<c:choose>
 				<c:when test="${fiche.nr != null}">
 					<p class="description">
-						<img class="paragraph-icon" src="img/region.png" />Région :
+						<img class="info-icon full-opacity" src="img/region.png" />Région :
 						${fiche.nr}
 					</p>
 				</c:when>
@@ -42,7 +41,7 @@
 			<c:choose>
 				<c:when test="${fiche.nd != null}">
 					<p class="description">
-						<img class="paragraph-icon" src="img/departement.png" />Département :
+						<img class="info-icon full-opacity" src="img/departement.png" />Département :
 						${fiche.nd}
 					</p>
 				</c:when>
@@ -50,32 +49,28 @@
 			<c:choose>
 				<c:when test="${fiche.nv != null}">
 					<p class="description">
-						<img class="paragraph-icon" src="img/ville.png" />Ville :
-						${fiche.nv}
+						<img class="info-icon" src="img/ville.png" />Ville : ${fiche.nv}
 					</p>
 				</c:when>
 			</c:choose>
 			<c:choose>
 				<c:when test="${fiche.nru != null}">
 					<p class="description">
-						<img class="paragraph-icon" src="img/ville.png" />Rue :
-						${fiche.nru}
+						<img class="info-icon" src="img/ville.png" />Rue : ${fiche.nru}
 					</p>
 				</c:when>
 			</c:choose>
 			<c:choose>
 				<c:when test="${fiche.nth != null}">
 					<p class="description">
-						<img class="paragraph-icon" src="img/theme.png" />Thème :
-						${fiche.nth}
+						<img class="info-icon" src="img/theme.png" />Thème : ${fiche.nth}
 					</p>
 				</c:when>
 			</c:choose>
 			<c:choose>
 				<c:when test="${fiche.hov != null}">
 					<p class="description">
-						<img class="paragraph-icon" src="img/date.png" />Horaire
-						d'ouverture :
+						<img class="info-icon" src="img/date.png" />Horaire d'ouverture :
 						${fiche.hov}
 					</p>
 				</c:when>
@@ -83,7 +78,7 @@
 			<c:choose>
 				<c:when test="${fiche.rov != null}">
 					<p class="description">
-						<img class="paragraph-icon" src="img/date.png" />Date de réouverture :
+						<img class="info-icon" src="img/date.png" />Date de réouverture :
 						${fiche.rov}
 					</p>
 				</c:when>
@@ -91,15 +86,15 @@
 			<c:choose>
 				<c:when test="${fiche.fan != null}">
 					<p class="description">
-						<img class="paragraph-icon" src="img/date.png" />Date de fermeture annuelle :
-						${fiche.fan}
+						<img class="info-icon" src="img/date.png" />Date de fermeture
+						annuelle : ${fiche.fan}
 					</p>
 				</c:when>
 			</c:choose>
 			<c:choose>
 				<c:when test="${fiche.pno != null}">
 					<p class="description">
-						<img class="paragraph-icon" src="img/date.png" />Période nocturne :
+						<img class="info-icon" src="img/date.png" />Période nocturne :
 						${fiche.pno}
 					</p>
 				</c:when>
@@ -107,7 +102,7 @@
 			<c:choose>
 				<c:when test="${fiche.swe != null}">
 					<p class="description">
-						<img class="paragraph-icon" src="img/website.png" />Site Web :
+						<img class="info-icon" src="img/website.png" />Site Web :
 						${fiche.swe}
 					</p>
 				</c:when>

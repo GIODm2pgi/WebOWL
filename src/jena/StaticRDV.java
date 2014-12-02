@@ -20,7 +20,7 @@ public class StaticRDV {
 	public static List<String> getRégions (){
 		if (régions == null){
 			String queryString = Utils.PREFIX 
-					+ "SELECT ?nr {"
+					+ "SELECT (str(?nr) AS ?nrs) WHERE {"
 					+ "?r m:aNomRégion ?nr ."
 					+ "}";
 
@@ -34,7 +34,7 @@ public class StaticRDV {
 
 			while (results.hasNext()) {
 				QuerySolution soln = results.nextSolution();
-				régions.add(Utils.ct(soln.get("?nr")));
+				régions.add(soln.get("?nrs").toString());
 			}
 			qexec.close();
 
@@ -47,7 +47,7 @@ public class StaticRDV {
 	public static List<String> getDépartements (){
 		if (départements == null){
 			String queryString = Utils.PREFIX 
-					+ "SELECT ?nd {"
+					+ "SELECT (str(?nd) AS ?nds) WHERE {"
 					+ "?d m:aNomDépartement ?nd ."
 					+ "}";
 
@@ -61,7 +61,7 @@ public class StaticRDV {
 
 			while (results.hasNext()) {
 				QuerySolution soln = results.nextSolution();
-				départements.add(Utils.ct(soln.get("?nd")));
+				départements.add(soln.get("?nds").toString());
 			}
 			qexec.close();
 
@@ -74,7 +74,7 @@ public class StaticRDV {
 	public static List<String> getVilles (){
 		if (villes == null){
 			String queryString = Utils.PREFIX 
-					+ "SELECT ?nv {"
+					+ "SELECT (str(?nv) AS ?nvs) WHERE {"
 					+ "?v m:aNomVille ?nv ."
 					+ "}";
 
@@ -88,7 +88,7 @@ public class StaticRDV {
 
 			while (results.hasNext()) {
 				QuerySolution soln = results.nextSolution();
-				villes.add(Utils.ct(soln.get("?nv")));
+				villes.add(soln.get("?nvs").toString());
 			}
 			qexec.close();
 

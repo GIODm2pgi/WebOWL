@@ -10,31 +10,32 @@ import com.hp.hpl.jena.query.QueryExecutionFactory;
 import com.hp.hpl.jena.query.QueryFactory;
 import com.hp.hpl.jena.query.QuerySolution;
 import com.hp.hpl.jena.query.ResultSet;
+import com.hp.hpl.jena.rdf.model.RDFNode;
 
 public class RequêteMusée {
 
-	public static List<LienMusée> processQueryApp (String region, String dep, String ville, String theme, String sort, String sort_sens){
+	public static List<LienMusée> processQueryApp (String nom, String region, String dep, String ville, String theme, String sort, String sort_sens){
 		if ((region + dep + ville).length() == 0)
-			return processQueryAppBis(null, null, null, theme, sort, sort_sens);
+			return processQueryAppBis(nom, null, null, null, theme, sort, sort_sens);
 
 		List<LienMusée> toReturn = new ArrayList<LienMusée>();
 
 		if (region.length() > 0){
-			List<LienMusée> toAdd = processQueryAppBis(region, null, null, theme, sort, sort_sens);
+			List<LienMusée> toAdd = processQueryAppBis(nom, region, null, null, theme, sort, sort_sens);
 			for (LienMusée lm : toAdd)
 				if (!toReturn.contains(lm))
 					toReturn.add(lm);
 		}
 
 		if (dep.length() > 0){
-			List<LienMusée> toAdd = processQueryAppBis(null,dep, null, theme, sort, sort_sens);
+			List<LienMusée> toAdd = processQueryAppBis(nom, null,dep, null, theme, sort, sort_sens);
 			for (LienMusée lm : toAdd)
 				if (!toReturn.contains(lm))
 					toReturn.add(lm);
 		}
 
 		if (ville.length() > 0){
-			List<LienMusée> toAdd = processQueryAppBis(null, null, ville, theme, sort, sort_sens);
+			List<LienMusée> toAdd = processQueryAppBis(nom, null, null, ville, theme, sort, sort_sens);
 			for (LienMusée lm : toAdd)
 				if (!toReturn.contains(lm))
 					toReturn.add(lm);
@@ -43,9 +44,9 @@ public class RequêteMusée {
 		return toReturn;
 	}
 
-	private static List<LienMusée> processQueryAppBis (String region, String dep, String ville, String theme, String sort, String sort_sens){
+	private static List<LienMusée> processQueryAppBis (String nom, String region, String dep, String ville, String theme, String sort, String sort_sens){
 		String base = Utils.PREFIX 
-				+ "SELECT ?m ?nm ?nv ?nd ?nr ?r {"
+				+ "SELECT ?m (str(?nm) AS ?nms) (str(?nv) AS ?nvs) (str(?nd) AS ?nds) (str(?nr) AS ?nrs) ?r WHERE {"
 				+ "?a m:estAdresseDuMusée ?m ."
 				+ "?v m:estVilleDeLAdresse ?a ."
 				+ "?v m:aNomVille ?nv ."
@@ -53,7 +54,8 @@ public class RequêteMusée {
 				+ "?d m:aNomDépartement ?nd ."
 				+ "?r m:estRégionDuDépartement ?d ."
 				+ "?r m:aNomRégion ?nr ."
-				+ "?m m:aNomMusée ?nm .";
+				+ "?m m:aNomMusée ?nm ."
+				+ "OPTIONAL { ?m m:estMuséeDuThème ?t . ?t m:aNomThème ?nt } .";
 
 		String queryString = base;
 
@@ -68,7 +70,11 @@ public class RequêteMusée {
 		}
 
 		if (theme.length() > 0){
-			// TODO ...
+			queryString += "FILTER regex(str(?nt), \"" + theme + "\", \"i\")";
+		}
+
+		if (nom.length() > 0){
+			queryString += "FILTER regex(str(?nm), \"" + nom + "\", \"i\")";
 		}
 
 		queryString += "}";
@@ -89,7 +95,7 @@ public class RequêteMusée {
 
 		while (results.hasNext()) {
 			QuerySolution soln = results.nextSolution();
-			LienMusée lm = new LienMusée(Utils.cd(soln.get("?m")), Utils.ct(soln.get("?nm")), Utils.cd(soln.get("?r")), Utils.ct(soln.get("?nr")), Utils.ct(soln.get("?nd")), Utils.ct(soln.get("?nv")));
+			LienMusée lm = new LienMusée(soln.get("?m").toString().split("#")[1], soln.get("?nms").toString(), soln.get("?r").toString().split("#")[1], soln.get("?nrs").toString(), soln.get("?nds").toString(), soln.get("?nvs").toString());
 			toReturn.add(lm);
 		}
 		qexec.close();
@@ -99,8 +105,10 @@ public class RequêteMusée {
 
 	public static FicheMusée getFicheMusée (String id){
 		String queryString = Utils.PREFIX 
-				+ "SELECT ?NomMusee ?NomRue ?NomVille ?NomDepartement ?NomRegion ?NomTheme ?HoraireOuverture ?ReOuverture "
-				+ "?FermetureAnnuelle ?PeriodeNocturne ?SiteWeb {"
+				+ "SELECT (str(?NomMusee) AS ?nms) (str(?NomRue) AS ?nrus) (str(?NomVille) AS ?nvs) "
+				+ "(str(?NomDepartement) AS ?nds) (str(?NomRegion) AS ?nrs) (str(?NomTheme) AS ?nts) "
+				+ "(str(?HoraireOuverture) AS ?hos) (str(?ReOuverture) AS ?ros) (str(?FermetureAnnuelle) AS ?fas) "
+				+ "(str(?PeriodeNocturne) AS ?pns) (str(?SiteWeb) AS ?sws) WHERE {"
 				+ "m:" + id + " m:aNomMusée ?NomMusee ."
 				+ "OPTIONAL { m:" + id + " m:estMuséeDeLAdresse ?adresse . ?adresse m:aRue ?NomRue } ."
 				+ "OPTIONAL { ?adresse m:estAdresseDeLaVille ?ville  . ?ville m:aNomVille ?NomVille } ."
@@ -124,21 +132,28 @@ public class RequêteMusée {
 
 		while (results.hasNext()) {
 			QuerySolution soln = results.nextSolution();
-			toReturn.setNm(Utils.ct(soln.get("?NomMusee")));
-			toReturn.setNv(Utils.ct(soln.get("?NomVille")));
-			toReturn.setNd(Utils.ct(soln.get("?NomDepartement")));
-			toReturn.setNr(Utils.ct(soln.get("?NomRegion")));
-			toReturn.setNru(Utils.ct(soln.get("?NomRue")));
-			toReturn.setNth(Utils.ct(soln.get("?NomTheme")));
-			toReturn.setHov(Utils.ct(soln.get("?HoraireOuverture")));
-			toReturn.setRov(Utils.ct(soln.get("?ReOuverture")));
-			toReturn.setFan(Utils.ct(soln.get("?FermetureAnnuelle")));
-			toReturn.setPno(Utils.ct(soln.get("?PeriodeNocturne")));
-			toReturn.setSwe(Utils.ct(soln.get("?SiteWeb")));
+			toReturn.setNm(toString(soln.get("?nms")));
+			toReturn.setNv(toString(soln.get("?nvs")));
+			toReturn.setNd(toString(soln.get("?nds")));
+			toReturn.setNr(toString(soln.get("?nrs")));
+			toReturn.setNru(toString(soln.get("?nrus")));
+			toReturn.setNth(toString(soln.get("?nts")));
+			toReturn.setHov(toString(soln.get("?hos")));
+			toReturn.setRov(toString(soln.get("?ros")));
+			toReturn.setFan(toString(soln.get("?fas")));
+			toReturn.setPno(toString(soln.get("?pns")));
+			toReturn.setSwe(toString(soln.get("?sws")));
 		}
 		qexec.close();
 
 		return toReturn;
+	}
+
+	private static String toString (RDFNode n){
+		if (n == null)
+			return null;
+		else
+			return n.toString();
 	}
 
 }

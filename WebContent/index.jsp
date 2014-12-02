@@ -16,38 +16,46 @@
 	href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
 
 <script>
-<% MuséeOwl.setModel(getServletContext().getResourceAsStream("/data/musee.owl")); %>
+<%MuséeOwl.setModel(getServletContext().getResourceAsStream(
+					"/data/musee.owl"));%>
 	$(function() {
 		var availableTagsRegions = [];
-		<% for (int i=0; i<StaticRDV.getRégions().size(); i++) { %>
-		availableTagsRegions[<%= i %>] = "<%= StaticRDV.getRégions().get(i) %>"; 
-		<% } %>
+		<%for (int i = 0; i < StaticRDV.getRégions().size(); i++) {%>
+		availableTagsRegions[<%=i%>] = "<%=StaticRDV.getRégions().get(i)%>"; 
+		<%}%>
 		var availableTagsDeps = [];
-		<% for (int i=0; i<StaticRDV.getDépartements().size(); i++) { %>
-		availableTagsDeps[<%= i %>] = "<%= StaticRDV.getDépartements().get(i) %>"; 
-		<% } %>
+		<%for (int i = 0; i < StaticRDV.getDépartements().size(); i++) {%>
+		availableTagsDeps[<%=i%>] = "<%=StaticRDV.getDépartements().get(i)%>"; 
+		<%}%>
 		var availableTagsVilles = [];
-		<% for (int i=0; i<StaticRDV.getVilles().size(); i++) { %>
-		availableTagsVilles[<%= i %>] = "<%= StaticRDV.getVilles().get(i) %>"; 
-		<% } %>
-		$("#region").autocomplete({
-		    source: function(request, response) {
-		        var results = $.ui.autocomplete.filter(availableTagsRegions, request.term);
-		        response(results.slice(0, 10));
-		    }
-		});
-		$("#dep").autocomplete({
-		    source: function(request, response) {
-		        var results = $.ui.autocomplete.filter(availableTagsDeps, request.term);
-		        response(results.slice(0, 10));
-		    }
-		});
-		$("#ville").autocomplete({
-		    source: function(request, response) {
-		        var results = $.ui.autocomplete.filter(availableTagsVilles, request.term);
-		        response(results.slice(0, 10));
-		    }
-		});
+		<%for (int i = 0; i < StaticRDV.getVilles().size(); i++) {%>
+		availableTagsVilles[<%=i%>] = "<%=StaticRDV.getVilles().get(i)%>
+	";
+<%}%>
+	$("#region").autocomplete(
+				{
+					source : function(request, response) {
+						var results = $.ui.autocomplete.filter(
+								availableTagsRegions, request.term);
+						response(results.slice(0, 10));
+					}
+				});
+		$("#dep").autocomplete(
+				{
+					source : function(request, response) {
+						var results = $.ui.autocomplete.filter(
+								availableTagsDeps, request.term);
+						response(results.slice(0, 10));
+					}
+				});
+		$("#ville").autocomplete(
+				{
+					source : function(request, response) {
+						var results = $.ui.autocomplete.filter(
+								availableTagsVilles, request.term);
+						response(results.slice(0, 10));
+					}
+				});
 	});
 </script>
 </head>
@@ -80,6 +88,11 @@
 					localisation (region, département et ville), le résultat sera
 					l'ensemble des musées respectants au moins un des critères.</p>
 				<p>
+				<p>
+					<img class="img-search opacity-8" width="32px" src="img/label.png"
+						title="Nom" /> <label for="nom">Nom : </label><input type="text"
+						id="nom" autocomplete="off" name="nom" placeholder="Nom" />
+				</p>
 				<p>
 					<img class="img-search" width="32px" src="img/region.png"
 						title="Région" /> <label for="region">Région : </label><input

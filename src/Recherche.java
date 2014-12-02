@@ -32,12 +32,13 @@ public class Recherche extends HttpServlet {
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		String nom = request.getParameter("nom");
 		String region = request.getParameter("region");
 		String dep = request.getParameter("dep");
 		String ville = request.getParameter("ville");
 		String theme = request.getParameter("theme");
 
-		if (region == null || dep == null || ville == null || theme == null){
+		if (nom == null || region == null || dep == null || ville == null || theme == null){
 			response.sendRedirect("index.html");
 			return;
 		}
@@ -49,7 +50,7 @@ public class Recherche extends HttpServlet {
 		request.setAttribute("sort", sort);
 		request.setAttribute("sort_sens", sort_sens);
 
-		List<LienMusée> listResult = RequêteMusée.processQueryApp(region, dep, ville, theme, sort, sort_sens);
+		List<LienMusée> listResult = RequêteMusée.processQueryApp(nom, region, dep, ville, theme, sort, sort_sens);
 		request.setAttribute("result", listResult);
 		request.getRequestDispatcher("recherche.jsp").forward(request, response);
 	}

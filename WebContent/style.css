@@ -172,6 +172,14 @@ a:hover {
 	opacity: 0.9;
 }
 
+.full-opacity {
+	opacity: 1 !important;
+}
+
+.opacity-8 {
+	opacity: 0.85 !important;
+}
+
 .btn-retour {
 	text-align: right;
 	padding-right: 15px;
