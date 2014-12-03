@@ -39,11 +39,6 @@ public class Recherche extends HttpServlet {
 		List<String> villes = this.getParameters(request, "compteurVille", "ville");
 		String theme = request.getParameter("theme");
 
-		if (nom == null || regions == null || deps == null || villes == null || theme == null){
-			response.sendRedirect("index.html");
-			return;
-		}
-
 		MuséeOwl.setModel(getServletContext().getResourceAsStream("/data/musee.owl"));
 
 		String sort = request.getParameter("sort");
@@ -62,7 +57,7 @@ public class Recherche extends HttpServlet {
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
 	}
-	
+
 	List<String> getParameters(HttpServletRequest request, String compteur, String prefix){
 		if(request.getParameter(compteur) == null){
 			return null;
@@ -71,7 +66,7 @@ public class Recherche extends HttpServlet {
 		List<String> toReturn = new ArrayList<String>();
 		for(int i=1 ; i <= cpt ; i++){
 			String value = request.getParameter(prefix + i);
-			if(value != null){
+			if(value != null && value.length() > 0){
 				toReturn.add(value);
 			}
 		}

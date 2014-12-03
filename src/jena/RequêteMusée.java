@@ -15,8 +15,9 @@ import com.hp.hpl.jena.rdf.model.RDFNode;
 public class RequêteMusée {
 
 	public static List<LienMusée> processQueryApp (String nom, List<String> regions, List<String> deps, List<String> villes, String theme, String sort, String sort_sens){
-		if ((regions.size() + deps.size() + villes.size()) == 0)
+		if ((regions.size() + deps.size() + villes.size()) == 0){
 			return processQueryAppBis(nom, null, null, null, theme, sort, sort_sens);
+		}
 
 		List<LienMusée> toReturn = new ArrayList<LienMusée>();
 
@@ -59,21 +60,21 @@ public class RequêteMusée {
 
 		String queryString = base;
 
-		if (regions != null){
+		if (regions != null && regions.size() > 0){
 			queryString += "{?r m:aNomRégion \"" + regions.get(0) + "\"^^xsd:string }";
 			for(int i = 1 ; i < regions.size() ; i++){
 				queryString += " UNION ";
 				queryString += "{?r m:aNomRégion \"" + regions.get(i) + "\"^^xsd:string }";
 			}
 		}
-		else if (deps != null){
+		else if (deps != null && deps.size() > 0){
 			queryString += "{?d m:aNomDépartement \"" + deps.get(0) + "\"^^xsd:string }";
 			for(int i = 1 ; i < deps.size() ; i++){
 				queryString += " UNION ";
 				queryString += "{?d m:aNomDépartement \"" + deps.get(i) + "\"^^xsd:string }";
 			}
 		}
-		else if (villes != null){
+		else if (villes != null && villes.size() > 0){
 			queryString += "{?v m:aNomVille \"" + villes.get(0) + "\"^^xsd:string }";
 			for(int i = 1 ; i < villes.size() ; i++){
 				queryString += " UNION ";
