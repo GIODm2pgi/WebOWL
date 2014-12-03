@@ -29,6 +29,7 @@ body {
 }
 
 #corps-center {
+	position: relative;
 	width: 995px;
 	background: url(img/corps_repeat.jpg) repeat-y;
 	color: #24170e;
@@ -270,4 +271,23 @@ a:hover {
 .input_fields_wrap_ville div input {
 	margin-top: 10px;
 	margin-right: 10px;
+}
+
+/*----------- Map style --------------*/
+#gmap-container {	
+	position: absolute;
+	right: 7px; top: 80px;
+	width: 550px;
+	height: 350px;
+}
+#gmap {
+	border: 2px solid #24170e;
+	border-radius: 5px;
+	overflow: hidden;
+	width: 550px;
+	height: 350px;
+}
+#gmap-container h3 {
+	text-align: center;
+	margin: 0;
 }

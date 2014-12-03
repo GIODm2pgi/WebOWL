@@ -17,6 +17,10 @@
 	<div id="corps">
 		<div id="corps-top"></div>
 		<div id="corps-center">
+			<div id="gmap-container">
+			<h3>Localisation du musée</h3>
+				<div id="gmap"></div>
+			</div>
 			<h2>
 				<a href="index.jsp" title="Retour recherche"><img
 					src="img/museum.png" title="icône musée" width="22px" /></a> <span
@@ -33,30 +37,32 @@
 			<c:choose>
 				<c:when test="${fiche.nr != null}">
 					<p class="description">
-						<img class="info-icon full-opacity" src="img/region.png" />Région :
-						${fiche.nr}
+						<img class="info-icon full-opacity" src="img/region.png" />Région
+						: ${fiche.nr}
 					</p>
 				</c:when>
 			</c:choose>
 			<c:choose>
 				<c:when test="${fiche.nd != null}">
 					<p class="description">
-						<img class="info-icon full-opacity" src="img/departement.png" />Département :
-						${fiche.nd}
+						<img class="info-icon full-opacity" src="img/departement.png" />Département
+						: ${fiche.nd}
 					</p>
 				</c:when>
 			</c:choose>
 			<c:choose>
 				<c:when test="${fiche.nv != null}">
 					<p class="description">
-						<img class="info-icon" src="img/ville.png" />Ville : ${fiche.nv}
+						<img class="info-icon" src="img/ville.png" />Ville : <span
+							id="city">${fiche.nv}</span>
 					</p>
 				</c:when>
 			</c:choose>
 			<c:choose>
 				<c:when test="${fiche.nru != null}">
 					<p class="description">
-						<img class="info-icon" src="img/ville.png" />Rue : ${fiche.nru}
+						<img class="info-icon" src="img/ville.png" />Rue : <span
+							id="address">${fiche.nru}</span>
 					</p>
 				</c:when>
 			</c:choose>
@@ -116,5 +122,33 @@
 
 		<div id="corps-bot"></div>
 	</div>
+	<script
+		src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script
+		src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+	<script>
+		$(function() {
+			var geocoder = new google.maps.Geocoder();
+			var request = {
+				address : $("#address").text() + ", " + $("#city").text()
+			}
+			geocoder.geocode(request, function(results, status) {
+				if (status == google.maps.GeocoderStatus.OK) {
+					var center = results[0].geometry.location
+
+					var mapOptions = {
+						zoom : 15,
+						center : center
+					};
+					var carte = new google.maps.Map(document
+							.getElementById('gmap'), mapOptions);
+					var marker = new google.maps.Marker({
+						position : center,
+						map : carte
+					});
+				}
+			});
+		});
+	</script>
 </body>
 </html>
