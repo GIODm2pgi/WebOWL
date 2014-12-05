@@ -168,39 +168,35 @@
 					localisation (region, département et ville), le résultat sera
 					l'ensemble des musées respectants au moins un des critères.</p>
 				<p>
-					<img class="img-search opacity-8" width="32px" src="img/label.png"
-						title="Nom" /> <label for="nom">Nom : </label><input type="text"
+					<img class="img-search opacity-75" width="32px" src="img/label.png"
+						title="Nom" /><label for="nom">Nom : </label><input type="text"
 						id="nom" autocomplete="off" name="nom" placeholder="Nom" />
 				</p>
 				<p>
 					<img class="img-search" width="32px" src="img/region.png"
-						title="Région" /> <label for="region1">Région : </label>
-					<span class="input_fields_wrap_region">
-						<button class="add_field_button_region">+</button>
-						<span>
-							<input type="text" id="region1" name="region1" placeholder="Région" />
-						</span>
+						title="Région" /><label for="region1">Région : </label> <span
+						class="input_fields_wrap_region">
+						<button class="add_field_button_region">+</button> <span> <input
+							type="text" id="region1" name="region1" placeholder="Région" />
+					</span>
 					</span>
 				</p>
-				<p>	
+				<p>
 					<img class="img-search" width="32px" src="img/departement.png"
-						title="Département" /> <label for="dep1">Département : </label>
-					<span class="input_fields_wrap_dep">
-						<button class="add_field_button_dep">+</button>
-						<span>
-							<input type="text" id="dep1" name="dep1" placeholder="Département" />
-						</span>
+						title="Département" /> <label for="dep1">Département : </label> <span
+						class="input_fields_wrap_dep">
+						<button class="add_field_button_dep">+</button> <span> <input
+							type="text" id="dep1" name="dep1" placeholder="Département" />
+					</span>
 					</span>
 				</p>
 				<p>
 					<img class="img-search img-opacity" width="32px"
 						src="img/ville.png" title="Ville" /> <label for="ville1">Ville
-						: </label>
-					<span class="input_fields_wrap_ville">
-						<button class="add_field_button_ville">+</button>
-						<span>
-							<input type="text" id="ville1" name="ville1" placeholder="Ville" />
-						</span>
+						: </label> <span class="input_fields_wrap_ville">
+						<button class="add_field_button_ville">+</button> <span> <input
+							type="text" id="ville1" name="ville1" placeholder="Ville" />
+					</span>
 					</span>
 				</p>
 				<p>
@@ -211,12 +207,10 @@
 				</p>
 				<p>
 					<input type="hidden" id="compteurRegion" name="compteurRegion"
-						value="1" />
-					<input type="hidden" id="compteurDep" name="compteurDep"
-						value="1" />
-					<input type="hidden" id="compteurVille" name="compteurVille"
-						value="1" />
-					<input class="button-submit" type="submit" value="Recherche" />
+						value="1" /> <input type="hidden" id="compteurDep"
+						name="compteurDep" value="1" /> <input type="hidden"
+						id="compteurVille" name="compteurVille" value="1" /> <input
+						class="button-submit" type="submit" value="Recherche" />
 				</p>
 			</form>
 

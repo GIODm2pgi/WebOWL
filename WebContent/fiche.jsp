@@ -17,10 +17,7 @@
 	<div id="corps">
 		<div id="corps-top"></div>
 		<div id="corps-center">
-			<div id="gmap-container">
-			<h3>Localisation du musée</h3>
-				<div id="gmap"></div>
-			</div>
+
 			<h2>
 				<a href="index.jsp" title="Retour recherche"><img
 					src="img/museum.png" title="icône musée" width="22px" /></a> <span
@@ -113,6 +110,11 @@
 					</p>
 				</c:when>
 			</c:choose>
+
+			<div id="gmap-container">
+				<h3>Localisation du musée (Google Map)</h3>
+				<div id="gmap"></div>
+			</div>
 
 			<p class="btn-retour">
 				<a href=javascript:history.go(-1)>RETOUR</a>

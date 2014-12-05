@@ -254,39 +254,45 @@ a:hover {
 	cursor: pointer;
 }
 
-.add_field_button_region,
-.add_field_button_dep,
-.add_field_button_ville {
-	margin-left: -43px;
+.add_field_button_region, .add_field_button_dep, .add_field_button_ville
+	{
+	position: absolute;
+	margin-top: 17px;
+	margin-left: -27px;
 }
-.input_fields_wrap_region div,
-.input_fields_wrap_dep div,
-.input_fields_wrap_ville div{
+
+.input_fields_wrap_region div, .input_fields_wrap_dep div,
+	.input_fields_wrap_ville div {
 	position: relative;
 	left: 130px;
 }
 
-.input_fields_wrap_region div input,
-.input_fields_wrap_dep div input,
-.input_fields_wrap_ville div input {
+.input_fields_wrap_region div input, .input_fields_wrap_dep div input,
+	.input_fields_wrap_ville div input {
 	margin-top: 10px;
-	margin-right: 10px;
+	position: relative;
+	left: -2px;
+}
+
+.opacity-75 {
+	opacity: 0.75 !important;
 }
 
 /*----------- Map style --------------*/
-#gmap-container {	
-	position: absolute;
-	right: 7px; top: 80px;
-	width: 550px;
+#gmap-container {
+	width: 800px;
 	height: 350px;
+	margin: -10px auto 60px;
 }
+
 #gmap {
 	border: 2px solid #24170e;
 	border-radius: 5px;
 	overflow: hidden;
-	width: 550px;
+	width: 800px;
 	height: 350px;
 }
+
 #gmap-container h3 {
 	text-align: center;
 	margin: 0;
