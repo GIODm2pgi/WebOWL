@@ -10,7 +10,7 @@ import com.hp.hpl.jena.query.ResultSet;
 
 public class RequêteDBpedia {
 
-	private static boolean proxy_on = true;
+	private static boolean proxy_on = false;
 	private static boolean proxy = false;
 	
 	public static void setProxy (){
